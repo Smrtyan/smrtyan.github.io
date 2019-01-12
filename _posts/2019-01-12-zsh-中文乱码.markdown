@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "zsh 中文乱码"
-subtitle:   " \"Hello World, Hello Blog\""
+#subtitle:   ""
 date:       2019-01-12 12:00:00
 author:     "rain"
 #header-img: "img/post-bg-2015.jpg"
@@ -27,11 +27,11 @@ tags:
 在服务端和本地都修改 ~/.zshrc
 编辑器编辑 ~/.zshrc
 在文件内容末端添加：
-{% highlight python %}
+{% highlight ruby %}
 export LC_ALL=en_US.UTF-8  
 export LANG=en_US.UTF-8
 {% endhighlight %}
 接着重启一下终端，或者输入
-{% highlight python %}
+{% highlight ruby %}
 source ~/.zshrc
 {% endhighlight %}
