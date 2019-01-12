@@ -2,7 +2,7 @@
 layout:     post
 title:      "zsh 中文乱码"
 subtitle:   " \"Hello World, Hello Blog\""
-date:       2018-01-12 12:00:00
+date:       2019-01-12 12:00:00
 author:     "rain"
 #header-img: "img/post-bg-2015.jpg"
 catalog: true
@@ -22,16 +22,16 @@ tags:
 之前我是一直以为是服务端问题，修改系统设置也只是修改服务端的。思路错了，折腾好久都没有成功。
 照着这个新思路，搜关键词， *zsh 中文乱码* 很快就找到解决方案
 
-## solution：
+# solution：
 
 在服务端和本地都修改 ~/.zshrc
 编辑器编辑 ~/.zshrc
 在文件内容末端添加：
-{% highlight zsh %}
+{% highlight bash %}
 export LC_ALL=en_US.UTF-8  
 export LANG=en_US.UTF-8
 {% endhighlight %}
 接着重启一下终端，或者输入
-{% highlight zsh %}
+{% highlight bash %}
 source ~/.zshrc
 {% endhighlight %}
