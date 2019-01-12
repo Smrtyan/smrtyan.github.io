@@ -27,11 +27,11 @@ tags:
 在服务端和本地都修改 ~/.zshrc
 编辑器编辑 ~/.zshrc
 在文件内容末端添加：
-{% highlight bash %}
+{% highlight python %}
 export LC_ALL=en_US.UTF-8  
 export LANG=en_US.UTF-8
 {% endhighlight %}
 接着重启一下终端，或者输入
-{% highlight bash %}
+{% highlight python %}
 source ~/.zshrc
 {% endhighlight %}
