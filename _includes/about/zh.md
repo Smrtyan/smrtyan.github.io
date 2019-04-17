@@ -1,12 +1,12 @@
 > 路没有远近之别
 
-Hey, 我是smrtyan ，现在大三，就读于东莞理工学院。我喜欢运动和command-line。
+Hey, 我是smrtyan ，现在大三，就读于东莞理工学院。性格活泼，喜欢运动。
 
 ##### 我
 
 - [x] 善于使用搜索引擎查资料
 - [x] linux系统网络等方面基本排错功能
-- [x] 开发时优先阅读英文/官方文档
+- [x] 能阅读英文官方文档
 - [x] 喜欢捣鼓，追求新技术，主动学习
 - [x] 利用开源工具提升效率
 - [x] ..
@@ -20,7 +20,20 @@ Hey, 我是smrtyan ，现在大三，就读于东莞理工学院。我喜欢运�
 * CET-4 486分 2017-06
 * CET-6 466分 2017-12
 
-#### 在校经历
+##### 感兴趣的方向
+
+移动开发（android/ios）
+
+##### demo
+
+[andorid吹蜡烛(声音传感器的课程demo)](https://github.com/Smrtyan/BlowingCandle)
+
+[android随机猫猫图片获取(RESTfull api课程demo)](https://github.com/Smrtyan/MyCatApp)
+
+[android卡路里记录（sqlite,多activity，第三方库使用课程demo）](https://github.com/Smrtyan/CalorieRecorder)
+
+[更多？](https://github.com/Smrtyan)
+##### 在校经历
 
 * 机电实验室干事（2017.07-2017.09）
 
