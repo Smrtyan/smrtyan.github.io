@@ -1,16 +1,15 @@
+> Introduction
 
 
-> Yet another man.
+Hi, I am ryan(*@smrtyan*), graduated from Dongguan University of Techonogy majoring in Computer Science and Technogy. Now I am a Java engineer. I like sports such as cycling and swimming.
 
+> my advantages
 
-Hi, I am ryan(*@smrtyan*) , a student. I now study at Dongguan University of Techonogy majoring in Computer Science and Technogy and will be graduated in 2020. I  enjoy the fun that open source code bringing to me. I like sports such as jogging and swimming.
-##### my advantages
-
-- [x] always adapt to use search engine to increase effiency
+- [x] use search engine to increase effiency (find solutions in both Chinese and English)
 - [x] prior to read official docs when studying new technology
-- [x] chase after fashional technogy
-- [x] always use open sourse software to raise my effiency on both life and developping
-- [x] ..
+- [x] master multiple languages such as Java, Python, C++, Bash and etc.
+- [x] have experiences software development on both front-end and back-end framework
 
+> certificates
 
-
+Overall band 6 score in IELTS Academic(Reading 7, speaking 5, writing 5.5, listening 6)
