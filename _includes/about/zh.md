@@ -57,6 +57,29 @@ Hey, 我是smrtyan ，毕业于东莞理工学院计算机科学与技术专业�
 ![WechatIMG367.jpg](/img/WechatIMG367.jpg)
 
 ![WechatIMG368.jpg](/img/WechatIMG368.jpg)
+第三天去云南昆明，迎接师兄，他直飞昆明，三人自驾游变四人，人多步伐虽变慢，但更有聊
+
+这天逛了些古镇，实在冻的，住名宿，故没咋拍照
+
+第四，五天开到了洱海，风景不错
+![WechatIMG370.jpg](/img/WechatIMG370.jpg)
+![WechatIMG371.jpg](/img/WechatIMG371.jpg)
+![WechatIMG372.jpg](/img/WechatIMG372.jpg)
+![WechatIMG373.jpg](/img/WechatIMG373.jpg)
+![WechatIMG374.jpg](/img/WechatIMG374.jpg)
+![WechatIMG375.jpg](/img/WechatIMG375.jpg)
+![WechatIMG376.jpg](/img/WechatIMG376.jpg)
+
+第六天开到了贵州乌蒙大草原顶，仙气飘飘，还有牛羊（逗牛差点被撞）
+![WechatIMG377.jpg](/img/WechatIMG377.jpg)
+![WechatIMG378.jpg](/img/WechatIMG378.jpg)
+![WechatIMG379.jpg](/img/WechatIMG379.jpg)
+![WechatIMG380.jpg](/img/WechatIMG380.jpg)
+![WechatIMG381.jpg](/img/WechatIMG381.jpg)
+![WechatIMG382.jpg](/img/WechatIMG382.jpg)
+![WechatIMG383.jpg](/img/WechatIMG383.jpg)
+![WechatIMG384.jpg](/img/WechatIMG384.jpg)
+
 
 
 > 获奖经历&证书
