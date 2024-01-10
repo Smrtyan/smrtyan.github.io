@@ -25,6 +25,20 @@ Hey, 我是smrtyan ，毕业于东莞理工学院计算机科学与技术专业�
 - [x] 了解tcp/ip通信知识
 - [x] 能轻松阅读英文官方文档
 
+> 露营经历
+2021.02.12-19 户外经验丰富的老板开着他的越野车带我们从深圳出发游西部
+留念一下，大数据行程卡记录了这七天经过的城市～
+![WechatIMG360.jpg](/img/WechatIMG360.jpg)
+出发了，除夕这天 泡面也很香
+![WechatIMG361.jpg](/img/WechatIMG361.jpg)
+第一晚，广西南宁 东敢水库，第一次住帐篷，不过水库旁挺热闹，很多人扎帐篷
+![WechatIMG356.jpg](/img/WechatIMG356.jpg)
+第一天醒来，户外半夜有点凉还好睡袋暖和，早上帐篷角有露珠
+![WechatIMG358.jpg](/img/WechatIMG358.jpg)
+![WechatIMG358.jpg](/img/WechatIMG359.jpg)
+![WechatIMG362.jpg](/img/WechatIMG362.jpg)
+
+
 > 获奖经历&证书
 
 * 雅思学术考试  6分 2022-06（阅读7 写作5.5 听力6 口语5）
