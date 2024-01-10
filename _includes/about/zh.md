@@ -44,6 +44,20 @@ Hey, 我是smrtyan ，毕业于东莞理工学院计算机科学与技术专业�
     <source src="/img/2024-01-01 22.43.16.mp4" type="video/mp4">
 </video>
 
+第二天，一路开到广西百色坡谷汽车营地，条件好一点，终于可以洗澡了
+![WechatIMG369.jpg](/img/WechatIMG369.jpg)
+
+早上风景真的不错
+![WechatIMG364.jpg](/img/WechatIMG364.jpg)
+
+![WechatIMG365.jpg](/img/WechatIMG365.jpg)
+
+![WechatIMG366.jpg](/img/WechatIMG366.jpg)
+
+![WechatIMG367.jpg](/img/WechatIMG367.jpg)
+
+![WechatIMG368.jpg](/img/WechatIMG368.jpg)
+
 
 > 获奖经历&证书
 
