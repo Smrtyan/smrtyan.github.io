@@ -26,7 +26,10 @@ Hey, 我是smrtyan ，毕业于东莞理工学院计算机科学与技术专业�
 - [x] 能轻松阅读英文官方文档
 
 > 露营经历
-2021.02.12-19 户外经验丰富的老板开着他的越野车带我们从深圳出发游西部
+
+2021.02.12-19 
+
+户外经验丰富的老板开着他的越野车带我们从深圳出发游西部
 留念一下，大数据行程卡记录了这七天经过的城市～
 ![WechatIMG360.jpg](/img/WechatIMG360.jpg)
 出发了，除夕这天 泡面也很香
@@ -37,6 +40,9 @@ Hey, 我是smrtyan ，毕业于东莞理工学院计算机科学与技术专业�
 ![WechatIMG358.jpg](/img/WechatIMG358.jpg)
 ![WechatIMG358.jpg](/img/WechatIMG359.jpg)
 ![WechatIMG362.jpg](/img/WechatIMG362.jpg)
+<video width="320" height="240" controls>
+    <source src="/img/2024-01-01 22.43.16.mp4" type="video/mp4">
+</video>
 
 
 > 获奖经历&证书
