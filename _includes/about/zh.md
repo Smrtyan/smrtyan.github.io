@@ -3,14 +3,14 @@
 * 初中时，同桌拿着他的摩托罗拉里程碑手机 告诉我 安卓手机可以刷机，我回家拿着家人的htc g3 （代号hero），每天闲着没事就逛各种论坛，在笔记本安装好刷机精灵，下载不同的第三方rom，刷系统
 ![hero.jpg](/img/heroright.jpg)
 * 初中还喜欢给电脑装系统，下载网络上的ghost，老猴桃等软件
-* 大一，一个同学介绍我购买1元腾讯云学生机（使用过windows，ubuntu，centOS等镜像），于是开始接触linux，在自己笔记本搭建了各种服务，（如samba，ftp，nginx，shadowsocks，内网穿透等）有意思的我用shadowsocks实现了舍友半夜的上网自由（宿舍区12点准时断网，当教学区不断网，通过一台小树莓派实现流量中转）
-* 大三前的暑假，了解到下学期移动开发可能有ios课程，了解到ios开发需要mac os，我通过网络教程成功将我的笔记本安装上苹果系统Mac OS 10.12，10.13，成功安装XCode，也能起到ios虚拟机
+* 大一，一个同学介绍我购买1元腾讯云学生机（使用过windows，ubuntu，centOS等镜像），于是开始接触linux，在自己笔记本搭建了各种服务，（如samba，ftp，nginx，shadowsocks，内网穿透等）有意思的我用shadowsocks实现了舍友半夜的上网自由（宿舍区12点准时断网，但教学区不断网，通过一台小树莓派实现流量中转）
+* 大三前的暑假，了解到下学期移动开发可能有ios课程，了解到ios开发需要mac os，我通过网络教程成功将我的惠普笔记本安装上苹果系统Mac OS 10.12，10.13，成功安装XCode，也能起到ios虚拟机
 ![hp2570p-mac](/img/post-bg-2018-05-10-macos.jpeg)
 
 ## 工作及教育经历
-* 深圳中软国际科技服务有限公司   &emsp;&emsp;&emsp;&ensp;2022.6~至今&emsp;&emsp;&emsp;&emsp;&emsp;      流程IT-数据库资源管理模块-Java中级开发      
-* 深圳醋溜科技有限公司              &emsp;&emsp;&emsp;&emsp;&emsp;2020.06~2019.6                Java开发
-* 深圳迅竞科技有限责任公司      &emsp;&emsp;&emsp;&emsp;&emsp;2019.06~2020.05&emsp;&emsp;&emsp;&emsp;安卓开发工程师 (实习)         
+* 深圳中软国际科技服务有限公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2022.6~至今&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;流程IT-数据库资源管理模块-Java中级开发
+* 深圳醋溜科技有限公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2020.06~2019.6&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Java开发
+* 深圳迅竞科技有限责任公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2019.06~2020.05&emsp;&emsp;&emsp;&emsp;安卓开发工程师 (实习)
 
 
 
@@ -63,7 +63,7 @@
 ![WechatIMG368.jpg](/img/WechatIMG368.jpg)
 第三天去云南昆明，迎接师兄，他直飞昆明，三人自驾游变四人，人多步伐虽变慢，但更有聊
 
-这天逛了些古镇，实在冻的，住名宿，故没咋拍照
+这天逛了些古镇，实在太冻，而且是住民宿，没啥特别，故没咋拍照
 
 第四，五天开到了洱海，风景不错
 ![WechatIMG370.jpg](/img/WechatIMG370.jpg)
