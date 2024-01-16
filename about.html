@@ -38,7 +38,15 @@ multilingual: true
 <script type="text/javascript">
     var thisUrl = new URL(window.location.href)
     if (thisUrl.searchParams.get('lang') === 'en') {
-        document.querySelector("select").lastElementChild.selected = true
+        // get nodes
+        var $zh = document.querySelector(".zh");
+        var $en = document.querySelector(".en");
+        var $select = document.querySelector("select");
+        $select.selectedIndex = 1;
+        $en.style.display = "block";
+        $en.classList.add("active");
+        $zh.style.display = "none";
+        $zh.classList.remove("active");
     }
     /* * * CONFIGURATION VARIABLES * * */
     var disqus_shortname = "{{site.disqus_username}}";
