@@ -1,5 +1,5 @@
 ## MY STORY
-* When in junior high school, my deskmate took his Motorola Milestone(codename) mobile phone and told me that Android phones can be flashed 3nd party ROM. I went home and took my family's HTC G3 (codename hero). I visited various forums every day when I had nothing to do, and installed the flash the ROM into the HTC G3.
+* When in junior high school, my deskmate took his Motorola Milestone(codename) mobile phone and told me that Android phones can be flashed 3nd party ROM. I went home and took my family's HTC G3 (codename hero). I visited various forums every day when I had nothing to do, and flashed the ROM into the HTC G3.
 
   ![hero.jpg](/img/heroright.jpg)
 
