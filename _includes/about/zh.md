@@ -8,13 +8,15 @@
 ![hp2570p-mac](/img/post-bg-2018-05-10-macos.jpeg)
 
 ## 工作及教育经历
-* 深圳中软国际科技服务有限公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2022.6~至今&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;流程IT-数据库资源管理模块-Java中级开发
-* 深圳醋溜科技有限公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2020.06~2019.6&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Java开发
-* 深圳迅竞科技有限责任公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2019.06~2020.05&emsp;&emsp;&emsp;&emsp;安卓开发工程师 (实习)
+
+深圳中软国际科技服务有限公司&emsp;&emsp;2022.6~至今&emsp;&emsp;&emsp;&emsp;流程IT-数据库资源管理模块-Java中级开发
+深圳醋溜科技有限公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2020.06~2022.03&emsp;开发工程师
+
+深圳迅竞科技有限责任公司&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;2019.06~2020.05&emsp;助教(实习)
 
 
 
-* 东莞理工学院                             &emsp;&emsp;&emsp;&emsp;&emsp;2016.09~2020.06&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-本科  
+东莞理工学院&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2016.09~2020.06&emsp;计算机科学与技术专业-本科  
 
     
 
@@ -37,7 +39,7 @@
 ![WechatIMG360.jpg](/img/WechatIMG360.jpg)
 出发了，除夕这天 泡面也很香
 ![WechatIMG361.jpg](/img/WechatIMG361.jpg)
-第一晚，广西南宁 东敢水库，第一次住帐篷，不过水库旁挺热闹，很多人扎帐篷
+第一晚，广西南宁 东敢水库第一次住帐篷，不过水库旁挺热闹，很多人扎帐篷
 ![WechatIMG356.jpg](/img/WechatIMG356.jpg)
 第一天醒来，户外半夜有点凉还好睡袋暖和，早上帐篷角有露珠
 ![WechatIMG358.jpg](/img/WechatIMG358.jpg)
