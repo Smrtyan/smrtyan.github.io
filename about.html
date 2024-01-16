@@ -36,6 +36,9 @@ multilingual: true
 
 <!-- disqus 公共JS代码 start (一个网页只需插入一次) -->
 <script type="text/javascript">
+    if (thisUrl.searchParams.get('lang') === 'en') {
+        document.querySelector("select").firstElementChild
+    }
     /* * * CONFIGURATION VARIABLES * * */
     var disqus_shortname = "{{site.disqus_username}}";
     var disqus_identifier = "{{site.disqus_username}}/{{page.url}}";
@@ -47,9 +50,7 @@ multilingual: true
         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
     })();
     var thisUrl = new URL(window.location.href)
-    if (thisUrl.searchParams.get('lang') === 'en') {
-        this.onLanChange("1")
-    }
+
 </script>
 <!-- disqus 公共JS代码 end -->
 {% endif %}
