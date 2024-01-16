@@ -11,10 +11,7 @@
 
 深圳中软国际科技服务有限公司&emsp;&emsp;2022.6~至今&emsp;&emsp;&emsp;&emsp;流程IT-数据库资源管理模块-Java中级开发
 深圳醋溜科技有限公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2020.06~2022.03&emsp;开发工程师
-
 深圳迅竞科技有限责任公司&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;2019.06~2020.05&emsp;助教(实习)
-
-
 
 东莞理工学院&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2016.09~2020.06&emsp;计算机科学与技术专业-本科  
 
