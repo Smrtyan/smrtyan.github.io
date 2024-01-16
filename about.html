@@ -36,6 +36,7 @@ multilingual: true
 
 <!-- disqus 公共JS代码 start (一个网页只需插入一次) -->
 <script type="text/javascript">
+    var thisUrl = new URL(window.location.href)
     if (thisUrl.searchParams.get('lang') === 'en') {
         document.querySelector("select").lastElementChild.selected = true
     }
@@ -49,7 +50,7 @@ multilingual: true
         dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
     })();
-    var thisUrl = new URL(window.location.href)
+    
 
 </script>
 <!-- disqus 公共JS代码 end -->
