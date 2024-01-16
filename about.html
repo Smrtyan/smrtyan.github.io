@@ -37,7 +37,7 @@ multilingual: true
 <!-- disqus 公共JS代码 start (一个网页只需插入一次) -->
 <script type="text/javascript">
     if (thisUrl.searchParams.get('lang') === 'en') {
-        document.querySelector("select").firstElementChild
+        document.querySelector("select").lastElementChild.selected = true
     }
     /* * * CONFIGURATION VARIABLES * * */
     var disqus_shortname = "{{site.disqus_username}}";
