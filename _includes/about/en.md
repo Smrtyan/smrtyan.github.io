@@ -1,5 +1,5 @@
 ## MY STORY
-* When in junior high school, my deskmate took his Motorola Milestone(codename) mobile phone and told me that Android phones can be flashed 3nd party ROM. I went home and took my family's HTC G3 (codename hero). I visited various forums every day when I had nothing to do, and flashed the ROM into the HTC G3.
+* When in junior high school, my deskmate took his Motorola *Milestone*(codename of the mobile phone) and told me that Android phones can be flashed into 3nd party ROM. I went home and took my family's HTC G3 (codename *HERO*). I visited various forums every day when I had nothing to do, and flashed different ROMs into the *HERO*.
 
   ![hero.jpg](/img/heroright.jpg)
 
@@ -100,7 +100,7 @@ Here am I, performing a handstand for everyone~
 ![WechatIMG384.jpg](/img/WechatIMG384.jpg)
 
 ### DAY 8 THE END
-On the last day, we will take the shortcut to Shenzhen.
+On the last day, we took the shortcut to Shenzhen.
 
 ## LANGAUGE & DIALECT
 ENGLISH, MANDARIN, CANTONESE(A LITTLE), HAKKA(A LITTLE),TEOCHEW(A LITTLE)
