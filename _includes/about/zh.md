@@ -48,6 +48,7 @@
 ![WechatIMG358.jpg](/img/WechatIMG359.jpg)
 ![WechatIMG362.jpg](/img/WechatIMG362.jpg)
 
+早上营地附近没有小店，自己煎鸡蛋吃
 <video width="320" height="240" controls>
     <source src="/img/2024-01-01 22.43.16.mp4" type="video/mp4">
 </video>
@@ -89,6 +90,8 @@
 ![WechatIMG378.jpg](/img/WechatIMG378.jpg)
 ![WechatIMG379.jpg](/img/WechatIMG379.jpg)
 ![WechatIMG380.jpg](/img/WechatIMG380.jpg)
+
+小弟我在此给大伙表演一个倒立
 ![WechatIMG381.jpg](/img/WechatIMG381.jpg)
 ![WechatIMG382.jpg](/img/WechatIMG382.jpg)
 ![WechatIMG383.jpg](/img/WechatIMG383.jpg)
@@ -123,4 +126,4 @@
 
     在这期间，主要学到了linux相关命令以及包管理工具的使用。
 
-*modified in 2024.01.15*
+

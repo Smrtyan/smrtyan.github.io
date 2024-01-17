@@ -53,6 +53,7 @@ When I woke up the next day, it was a bit cold outside. Fortunately, my sleeping
 ![WechatIMG358.jpg](/img/WechatIMG359.jpg)
 ![WechatIMG362.jpg](/img/WechatIMG362.jpg)
 
+There were no shops near the campground in the morning, so I fried eggs.
 <video width="320" height="240" controls>
     <source src="/img/2024-01-01 22.43.16.mp4" type="video/mp4">
 </video>
@@ -92,6 +93,7 @@ Driving to the top of Wumeng Prairie in Guizhou, there was a fairy atmosphere, a
 ![WechatIMG378.jpg](/img/WechatIMG378.jpg)
 ![WechatIMG379.jpg](/img/WechatIMG379.jpg)
 ![WechatIMG380.jpg](/img/WechatIMG380.jpg)
+Here am I, performing a handstand for everyone~
 ![WechatIMG381.jpg](/img/WechatIMG381.jpg)
 ![WechatIMG382.jpg](/img/WechatIMG382.jpg)
 ![WechatIMG383.jpg](/img/WechatIMG383.jpg)
