@@ -31,8 +31,9 @@ Dongguan University of Techonogy&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 ## CERTIFICATES & AWARDS
 
 1. Overall band 6 score in IELTS Academic(Reading 7, speaking 5, writing 5.5, listening 6) 2022-06
-2. CET-6 466(score) 2017-12
-3. CET-4 486(score) 2017-06
+2. the second prize of the Lanqiao Cup Algorithm Provincial Competition 2018-04
+3. CET-6 466(score) 2017-12
+4. CET-4 486(score) 2017-06
 
 ## CAMPING EXPERIENCE
 
