@@ -30,15 +30,20 @@
 ## 露营经历
 
 > 2021.02.12-2021.02.19 
-
+### 背景
 户外经验丰富的老板开着他的越野车带我们从深圳出发游西部
-留念一下，大数据行程卡记录了这七天经过的城市～
+留念一下，疫情大数据行程卡记录了这七天经过的部分城市～
 ![WechatIMG360.jpg](/img/WechatIMG360.jpg)
+
 出发了，除夕这天 泡面也很香
+
 ![WechatIMG361.jpg](/img/WechatIMG361.jpg)
-第一晚，广西南宁 东敢水库第一次住帐篷，不过水库旁挺热闹，很多人扎帐篷
+
+### DAY 1 广西省南宁市东敢水库
+
+第一晚，这第一次住帐篷，水库旁挺热闹，很多人扎帐篷，唱歌吃烧烤，特别有氛围
 ![WechatIMG356.jpg](/img/WechatIMG356.jpg)
-第一天醒来，户外半夜有点凉还好睡袋暖和，早上帐篷角有露珠
+第二天凌晨，户外有点凉还好睡袋暖和，早上帐篷角有露珠，说是小草也会哈气早上凝结的水珠
 ![WechatIMG358.jpg](/img/WechatIMG358.jpg)
 ![WechatIMG358.jpg](/img/WechatIMG359.jpg)
 ![WechatIMG362.jpg](/img/WechatIMG362.jpg)
@@ -47,10 +52,11 @@
     <source src="/img/2024-01-01 22.43.16.mp4" type="video/mp4">
 </video>
 
-第二天，一路开到广西百色坡谷汽车营地，条件好一点，终于可以洗澡了
+### DAY 2 广西百色坡谷汽车营地
+一路开到坡谷汽车营地，今晚的条件好一点，终于可以洗澡了
 ![WechatIMG369.jpg](/img/WechatIMG369.jpg)
 
-早上风景真的不错
+和高楼大厦比起，这儿风景真的不错
 ![WechatIMG364.jpg](/img/WechatIMG364.jpg)
 
 ![WechatIMG365.jpg](/img/WechatIMG365.jpg)
@@ -60,11 +66,15 @@
 ![WechatIMG367.jpg](/img/WechatIMG367.jpg)
 
 ![WechatIMG368.jpg](/img/WechatIMG368.jpg)
-第三天去云南昆明，迎接师兄，他直飞昆明，三人自驾游变四人，人多步伐虽变慢，但更有聊
 
-这天逛了些古镇，实在太冻，而且是住民宿，没啥特别，故没咋拍照
+### DAY 3 - 4 云南省昆明市
+今天赶车去云南昆明，迎接师兄，他直飞昆明，三人自驾游变四人，人多步伐虽变慢，但更有聊
 
-第四，五天开到了洱海，风景不错
+这两天逛了些古镇，实在太冻，而且是住民宿，没啥特别，故没咋拍照
+
+### DAY 5 - 6 云南省大理市洱海
+
+不得不说云南是充满鲜花的神奇地方
 ![WechatIMG370.jpg](/img/WechatIMG370.jpg)
 ![WechatIMG371.jpg](/img/WechatIMG371.jpg)
 ![WechatIMG372.jpg](/img/WechatIMG372.jpg)
@@ -73,7 +83,8 @@
 ![WechatIMG375.jpg](/img/WechatIMG375.jpg)
 ![WechatIMG376.jpg](/img/WechatIMG376.jpg)
 
-第六天开到了贵州乌蒙大草原顶，仙气飘飘，还有牛羊（逗牛差点被撞）
+### DAY 7 乌蒙大草原, 六盘水市, 贵州省
+今天开到了贵州乌蒙大草原山顶，仙气飘飘，还有牛羊（逗牛差点被撞）
 ![WechatIMG377.jpg](/img/WechatIMG377.jpg)
 ![WechatIMG378.jpg](/img/WechatIMG378.jpg)
 ![WechatIMG379.jpg](/img/WechatIMG379.jpg)
@@ -83,7 +94,8 @@
 ![WechatIMG383.jpg](/img/WechatIMG383.jpg)
 ![WechatIMG384.jpg](/img/WechatIMG384.jpg)
 
-
+### DAY 8 自驾游结束
+最后一天驱车折返，回去上班咯
 
 ## 大学期间 demo
 
