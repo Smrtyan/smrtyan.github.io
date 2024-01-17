@@ -52,7 +52,7 @@
     <source src="/img/2024-01-01 22.43.16.mp4" type="video/mp4">
 </video>
 
-### DAY 2 广西百色坡谷汽车营地
+### DAY 2 广西省百色市坡谷汽车营地
 一路开到坡谷汽车营地，今晚的条件好一点，终于可以洗澡了
 ![WechatIMG369.jpg](/img/WechatIMG369.jpg)
 
@@ -83,7 +83,7 @@
 ![WechatIMG375.jpg](/img/WechatIMG375.jpg)
 ![WechatIMG376.jpg](/img/WechatIMG376.jpg)
 
-### DAY 7 乌蒙大草原, 六盘水市, 贵州省
+### DAY 7 贵州省六盘水市乌蒙大草原
 今天开到了贵州乌蒙大草原山顶，仙气飘飘，还有牛羊（逗牛差点被撞）
 ![WechatIMG377.jpg](/img/WechatIMG377.jpg)
 ![WechatIMG378.jpg](/img/WechatIMG378.jpg)
