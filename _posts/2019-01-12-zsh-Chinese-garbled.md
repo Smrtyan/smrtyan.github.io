@@ -1,7 +1,6 @@
 ---
 layout:     post
 title:      "zsh 中文乱码"
-subtitle:   "饶了我吧，gbk"
 date:       2019-01-12 12:00:00
 author:     "rain"
 header-img: "img/post-bg-2019-01-12-chinese.jpg"
