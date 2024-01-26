@@ -58,7 +58,6 @@ tags:
 
 查阅网上资料也没有明令禁止，在stackoverflow的网友答复却看到这条定义
 
-326
 
 ```
 The 2014 update to the HTTP 1.1 specification (RFC 7231) explicitly permits an entity-body in a DELETE request:
