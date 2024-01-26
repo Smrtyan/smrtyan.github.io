@@ -4,7 +4,7 @@ SEOTitle: rain小站
 header-img: img/home-bg.jpg
 email: smrtyan@icloud.com
 description: " Computer Science | 这里是 @smrtyan 的个人博客，与你一起发现更大的世界。"
-keyword: "smrtyan, rain, ryan , 学生哥 , @smrtyan, smrtyan的博客, Smrtyan Blog, 博客, 个人网站, 互联网, mac os， ios, android, python, java"
+keyword: "smrtyan, rain, ryan, @smrtyan, smrtyan的博客, Smrtyan Blog, 博客, 个人网站, 互联网, mac os， ios, android, python, java"
 url: "https://smrtyan.cn"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -78,8 +78,8 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Forget something for getting somthing <br>为所追求 逆向生长"
-sidebar-avatar: /img/avatar-rain.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Just do it. <br>搞上去!"
+sidebar-avatar: /img/WechatIMG381.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
