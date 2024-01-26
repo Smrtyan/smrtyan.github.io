@@ -23,7 +23,7 @@ tags:
 首先接口url用RESTful风格，真的让接口看起来更高级
 就拿获取用户接口，不用RESTful前，有的人写 `GET /getUser` `GET /getUsers` `GET /getUserList` `GET /findUser` `GET /findUsers`
 且不说名称加不加s，动词有人用get 有人用find，在外人看起来有点乱糟糟
-> 而采用RESTful风格后，获取单个用户就是 `GET /users/{id}` 获取列表就是`GET /users`
+> 而采用RESTful风格后，获取单个用户就是 `GET /users/{id}`，获取列表就是`GET /users`，创建用户则是`POST /users/`
 
 > 请求体的格式和返回体要有类似结构，具体格式要看公司规范（方便某些微服务中转，虽然刚开始觉得公司这条规定很傻，但是当大家都遵守这条规定，接口写得那叫不要太爽）
 
