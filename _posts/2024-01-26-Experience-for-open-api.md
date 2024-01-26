@@ -66,7 +66,7 @@ The 2014 update to the HTTP 1.1 specification (RFC 7231) explicitly permits an e
 
 > A payload within a DELETE request message has no defined semantics; sending a payload body on a DELETE request might cause some existing implementations to reject the request.
 
-也许某些中间件转发请求时会按照这个不成文规定设计，因为DELETE请求的body可能在某些场景会丢失
+也许某些中间件转发请求时会按照这个不成文规定设计，因而DELETE请求的body可能在某些场景会丢失
 
 ### 4. 已经提供的接口，不要直接在原接口直接加校验
 发生了一起生产事故，创建集群api，我们会调用网络组api查信息，结果他们在某个周末上线后，接口会对头信息（header中的某个对象）进行校验，导致接口500，创建集群报错不可用了。
