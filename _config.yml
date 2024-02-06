@@ -1,10 +1,10 @@
 # Site settings
-title: rain小站
-SEOTitle: rain小站
+title: Wong Jiwei's home
+SEOTitle: Wong Jiwei
 header-img: img/home-bg.jpg
 email: smrtyan@icloud.com
 description: " Computer Science | 这里是 @smrtyan 的个人博客，与你一起发现更大的世界。"
-keyword: "smrtyan, rain, ryan, @smrtyan, smrtyan的博客, Smrtyan Blog, 博客, 个人网站, 互联网, mac os， ios, android, python, java"
+keyword: "smrtyan, Jiwei, @smrtyan, smrtyan的博客, Smrtyan Blog, 博客, 个人网站, 互联网, mac os， ios, android, python, java"
 url: "https://smrtyan.cn"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
