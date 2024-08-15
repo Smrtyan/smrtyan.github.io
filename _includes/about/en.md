@@ -9,16 +9,38 @@
 ![hp2570p-mac](/img/post-bg-2018-05-10-macos.jpeg)
 
 ## WORK EXPERIENCE & EDUCATION
-
-Chinasoft International Technology Services Ltd.&emsp;2022.06-CURRENT&nbsp;JAVA DEVELOPER
-
-Shenzhen Culiu Technology Co., Ltd.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;2020.06-2022.03&emsp;&nbsp;SOFTWARE EMGINEER
-
-Shenzhen Xunjing Technology Co., Ltd.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;2019.06-2020.05&emsp;&nbsp;TEACHING ASSISTANT IN PROGRAMMING
-
-
-Dongguan University of Techonogy&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;2016-2020&emsp;&emsp;&emsp;&emsp;&emsp;BACHELOR OF COMPUTER SCIENCE & TECHNOLOGY
-
+<table>
+  <tr>
+    <th>Company/Institution</th>
+    <th>Duration</th>
+    <th>Position</th>
+  </tr>
+    <tr>
+    <td>Confidential, Hong Kong SAR</td>
+    <td>2024.05-CURRENT</td>
+    <td>Anaylst Programmer</td>
+  </tr>
+  <tr>
+    <td>Chinasoft International Technology Services Ltd.</td>
+    <td>2022.06-2024.04</td>
+    <td>JAVA DEVELOPER</td>
+  </tr>
+  <tr>
+    <td>Shenzhen Culiu Technology Co., Ltd.</td>
+    <td>2020.06-2022.03</td>
+    <td>SOFTWARE ENGINEER</td>
+  </tr>
+  <tr>
+    <td>Shenzhen Xunjing Technology Co., Ltd.</td>
+    <td>2019.06-2020.05</td>
+    <td>TEACHING ASSISTANT IN PROGRAMMING</td>
+  </tr>
+  <tr>
+    <td>Dongguan University of Techonogy</td>
+    <td>2016-2020</td>
+    <td>BACHELOR OF COMPUTER SCIENCE & TECHNOLOGY</td>
+  </tr>
+</table>
 ## SKILL
 
 - [x] multiple languages such as Java, Python, C++, Bash and etc.
