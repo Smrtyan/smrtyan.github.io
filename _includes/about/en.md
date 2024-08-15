@@ -51,11 +51,33 @@
 - [x] testing tool like JUnit, Postman, Jmeter，burp suite
 
 ## CERTIFICATES & AWARDS
-
-1. Overall band 6 score in IELTS Academic(Reading 7, speaking 5, writing 5.5, listening 6) 2022-06
-2. the second prize of the Lanqiao Cup Algorithm Provincial Competition 2018-04
-3. CET-6 466(score) 2017-12
-4. CET-4 486(score) 2017-06
+<table>
+  <tr>
+    <th>Exam/Competition</th>
+    <th>Score/Award</th>
+    <th>Date</th>
+  </tr>
+  <tr>
+    <td>IELTS Academic</td>
+    <td>Overall band 6 (Reading 7, Speaking 5, Writing 5.5, Listening 6)</td>
+    <td>2022-06</td>
+  </tr>
+  <tr>
+    <td>Lanqiao Cup Algorithm Provincial Competition</td>
+    <td>Second Prize</td>
+    <td>2018-04</td>
+  </tr>
+  <tr>
+    <td>CET-6</td>
+    <td>466</td>
+    <td>2017-12</td>
+  </tr>
+  <tr>
+    <td>CET-4</td>
+    <td>486</td>
+    <td>2017-06</td>
+  </tr>
+</table>
 
 ## CAMPING EXPERIENCE
 
