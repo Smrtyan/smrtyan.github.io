@@ -11,11 +11,6 @@
 ## WORK EXPERIENCE & EDUCATION
 <table>
   <tr>
-    <th>Company/Institution</th>
-    <th>Duration</th>
-    <th>Position</th>
-  </tr>
-    <tr>
     <td>Confidential, Hong Kong SAR</td>
     <td>2024.05-CURRENT</td>
     <td>Anaylst Programmer</td>
@@ -23,22 +18,22 @@
   <tr>
     <td>Chinasoft International Technology Services Ltd.</td>
     <td>2022.06-2024.04</td>
-    <td>JAVA DEVELOPER</td>
+    <td>Java Developer</td>
   </tr>
   <tr>
     <td>Shenzhen Culiu Technology Co., Ltd.</td>
     <td>2020.06-2022.03</td>
-    <td>SOFTWARE ENGINEER</td>
+    <td>Programmer</td>
   </tr>
   <tr>
     <td>Shenzhen Xunjing Technology Co., Ltd.</td>
     <td>2019.06-2020.05</td>
-    <td>TEACHING ASSISTANT IN PROGRAMMING</td>
+    <td>T.A.</td>
   </tr>
   <tr>
     <td>Dongguan University of Techonogy</td>
     <td>2016-2020</td>
-    <td>BACHELOR OF COMPUTER SCIENCE & TECHNOLOGY</td>
+    <td>Bachelor of Computer Science and Technology</td>
   </tr>
 </table>
 ## SKILL
