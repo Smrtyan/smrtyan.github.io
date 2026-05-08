@@ -1,9 +1,9 @@
 # Site settings
-title: Keith Wong's home
-SEOTitle: Keith Wong
+title: Keith's Digital Garden
+SEOTitle: Keith Wong | Full Stack & Wilderness Explorer
 header-img: img/home-bg.jpg
 email: smrtyan@icloud.com
-description: " Computer Science | 这里是 @smrtyan 的个人博客，与你一起发现更大的世界。"
+description: " Computer Science | 这里是 @smrtyan 的个人博客，记录代码、折腾与荒野。"
 keyword: "smrtyan, Keith, @smrtyan, smrtyan的博客, Smrtyan Blog, 博客, 个人网站, 互联网, mac os， ios, android, python, java"
 url: "https://smrtyan.cn"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
