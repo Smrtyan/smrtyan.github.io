@@ -1,64 +1,56 @@
-## MY STORY
-* When in junior high school, my deskmate took his Motorola *Milestone*(codename of the mobile phone) and told me that Android phones can be flashed into 3nd party ROM. I went home and took my family's HTC G3 (codename *HERO*). I visited various forums every day when I had nothing to do, and flashed different ROMs into the *HERO*.
+## Professional Experience
 
-  ![hero.jpg](/img/heroright.jpg)
+<div class="resume-item">
+    <div class="resume-header">
+        <span class="resume-title"><strong>Hong Kong Company</strong> | Analyst Programmer</span>
+        <span class="resume-date">2024.04 - Present</span>
+    </div>
+</div>
 
-* In my freshman year, a classmate introduced me to buy a Tencent Cloud student computer for 1 yuan (can choose windows, ubuntu, centOS and other images), so I started to get in touch with Linux and built various services on my laptop (such as samba, ftp, nginx, shadowsocks, Intranet penetration, etc.) Interestingly, I used shadowsocks to achieve the freedom of Internet access for my roommates in the middle of the night (the dormitory area was disconnected on time at 12 o'clock, but the teaching area was constantly connected, and the traffic was transferred through a small Raspberry Pi)
+<div class="resume-item">
+    <div class="resume-header">
+        <span class="resume-title"><strong>Chinasoft International</strong> | Java Developer (DB Resource Management)</span>
+        <span class="resume-date">2022.06 - 2024.04</span>
+    </div>
+    <div class="resume-desc">Responsible for the R&D of the database resource management module in the Process IT system.</div>
+</div>
 
-* During the summer vacation before my junior year, I learned that we may have iOS dev courses for next semester, and that iOS development requires mac os. I successfully installed my HP laptop on Apple's Mac OS 10.12 and 10.13 through online tutorials, and successfully installed XCode. 
-![hp2570p-mac](/img/post-bg-2018-05-10-macos.jpeg)
+<div class="resume-item">
+    <div class="resume-header">
+        <span class="resume-title"><strong>Shenzhen Culiu Tech</strong> | Software Engineer</span>
+        <span class="resume-date">2020.06 - 2022.03</span>
+    </div>
+</div>
 
-## WORK EXPERIENCE & EDUCATION
-<table>
-  <tr>
-    <td>Confidential, Hong Kong SAR</td>
-    <td>2024.05-CURRENT</td>
-    <td>Anaylst Programmer</td>
-  </tr>
-  <tr>
-    <td>Chinasoft International Technology Services Ltd.</td>
-    <td>2022.06-2024.04</td>
-    <td>Java Developer</td>
-  </tr>
-  <tr>
-    <td>Shenzhen Culiu Technology Co., Ltd.</td>
-    <td>2020.06-2022.03</td>
-    <td>Programmer</td>
-  </tr>
-  <tr>
-    <td>Shenzhen Xunjing Technology Co., Ltd.</td>
-    <td>2019.06-2020.05</td>
-    <td>T.A.</td>
-  </tr>
-  <tr>
-    <td>Dongguan University of Techonogy</td>
-    <td>2016-2020</td>
-    <td>Bachelor of Computer Science and Technology</td>
-  </tr>
-</table>
-## SKILL
+<div class="resume-item">
+    <div class="resume-header">
+        <span class="resume-title"><strong>Shenzhen Xunjing Tech</strong> | Teaching Assistant (Intern)</span>
+        <span class="resume-date">2019.06 - 2020.05</span>
+    </div>
+</div>
 
-- [x] multiple languages such as Java, Python, C++, Bash and etc.
-- [x] Spring boot, MyBatis, JPA
-- [x] Experience with MySQL, MongoDB, Redis
-- [x] data proccessing with Pandas, Matplotlib
-- [x] docker, jenkins, git
-- [x] testing tool like JUnit, Postman, Jmeter，burp suite
+<div class="resume-item">
+    <div class="resume-header">
+        <span class="resume-title"><strong>Dongguan University of Technology</strong> | B.S. in Computer Science</span>
+        <span class="resume-date">2016.09 - 2020.06</span>
+    </div>
+</div>
 
-## CERTIFICATES & AWARDS
+## Awards & Certifications
+
 <table>
   <tr>
     <th>Exam/Competition</th>
-    <th>Score/Award</th>
+    <th>Result</th>
     <th>Date</th>
   </tr>
   <tr>
     <td>IELTS Academic</td>
-    <td>Overall band 6 (Reading 7, Speaking 5, Writing 5.5, Listening 6)</td>
+    <td>6.0 (R: 7.0, W: 5.5, L: 6.0, S: 5.0)</td>
     <td>2022-06</td>
   </tr>
   <tr>
-    <td>Lanqiao Cup Algorithm Provincial Competition</td>
+    <td>9th Blue Bridge Cup (Guangdong) - C/C++ Design</td>
     <td>Second Prize</td>
     <td>2018-04</td>
   </tr>
@@ -74,73 +66,32 @@
   </tr>
 </table>
 
-## CAMPING EXPERIENCE
+## The "Tinkering" Chronicles
 
-### TIMELINE 2021.02.12 to 2021.02.19
-### BACKGROUND
-My previous boss with extensive outdoor experience drove us on a tour of western China from Shenzhen in his off-road vehicle.
+> "If it's flashable, it's not just a device—it's a playground."
 
-On New Year’s Eve, the instant noodles are also delicious.
-![WechatIMG361.jpg](/img/WechatIMG361.jpg)
+* **Middle School: The ROM Obsession**
+  Fascinated by the Motorola Milestone, I spent countless nights flashing custom ROMs on my family's HTC G3 (Hero), chasing the thrill of every system update.
+  ![hero.jpg](/img/heroright.jpg)
 
-### DAY 1 Donggan Reservoir, Nanning City, Guangxi Province
-This is my first time staying in a tent, but it’s very lively next to the reservoir. Many people set up tents and have barbecues.
+* **University: From $0.15 VPS to "The Midnight Gateway"**
+  Started my Linux journey with a student-discount Cloud VPS. Built a Raspberry Pi relay to bypass the 12 PM dorm internet curfew, ensuring "internet freedom" for the whole dorm via a sneaky traffic tunnel to the teaching area.
 
-![WechatIMG356.jpg](/img/WechatIMG356.jpg)
+* **Pre-iOS Era: Dreaming of macOS on a HP Laptop**
+  Before the iOS dev course, I managed to run macOS 10.12/10.13 on my HP laptop using Hackintosh guides. Xcode worked, simulators ran—dream achieved without the Mac price tag.
+  ![hp2570p-mac](/img/post-bg-2018-05-10-macos.jpeg)
 
-When I woke up the next day, it was a bit cold outside. Fortunately, my sleeping bag was warm. There were dewdrops on the corners of the tent in the morning.
-![WechatIMG358.jpg](/img/WechatIMG358.jpg)
-![WechatIMG358.jpg](/img/WechatIMG359.jpg)
-![WechatIMG362.jpg](/img/WechatIMG362.jpg)
+## Campus Life
 
-There were no shops near the campground in the morning, so I fried eggs.
-<video width="320" height="240" controls>
-    <source src="/img/2024-01-01 22.43.16.mp4" type="video/mp4">
-</video>
+* **Electromechanical Lab Associate (2017.07 - 2017.09)**
+  Developed a real-time monitoring system using Raspberry Pi, Arduino, and sensors to detect machine tool failures. Built the stack with Python, MySQL, and LAMP to visualize data in real-time.
 
-### DAY 2 Pogu Car Campground, Baise City, Guangxi Province
-Driving all the way to the Pogu Car Camp, the conditions are better today because you can take a shower in this camp.
-![WechatIMG369.jpg](/img/WechatIMG369.jpg)
+* **Embedded Lab Assistant (2017.09 - 2018.02)**
+  The lab's "Tech Surgeon." Revived old PCs by mixing spare parts and setting up multi-boot systems. Managed LNMP stacks and even hosted a private World of Warcraft server, diving deep into C++, MySQL, and Linux internals.
 
-The scenery is really nice in the morning
-![WechatIMG364.jpg](/img/WechatIMG364.jpg)
+## Tech Demos
 
-![WechatIMG365.jpg](/img/WechatIMG365.jpg)
-
-![WechatIMG366.jpg](/img/WechatIMG366.jpg)
-
-![WechatIMG367.jpg](/img/WechatIMG367.jpg)
-
-![WechatIMG368.jpg](/img/WechatIMG368.jpg)
-### DAY 3 to 4 Kunming City, Yunnan Province
-Today we went to Kunming, Yunnan, to meet another colleague. He flew directly from Guangdong to Kunming. The self-driving tour for three people became a self-driving tour for four. Although the pace became slower due to the increasing number of people, it was more chatty.
-
-I visited some ancient towns that day, but it was too cold, and I was staying in a B&B, so there was nothing special about it, so I didn’t take any pictures.
-
-### DAY 5 to 6 Erhai Lake, Dali City, Yunnan Province
-I have to say that Yunnan is a magical place full of flowers.
-![WechatIMG370.jpg](/img/WechatIMG370.jpg)
-![WechatIMG371.jpg](/img/WechatIMG371.jpg)
-![WechatIMG372.jpg](/img/WechatIMG372.jpg)
-![WechatIMG373.jpg](/img/WechatIMG373.jpg)
-![WechatIMG374.jpg](/img/WechatIMG374.jpg)
-![WechatIMG375.jpg](/img/WechatIMG375.jpg)
-![WechatIMG376.jpg](/img/WechatIMG376.jpg)
-
-### DAY 7 Wumeng Prairie, Wumeng Town, Panzhou City, Liupanshui City, Guizhou Province
-Driving to the top of Wumeng Prairie in Guizhou, there was a fairy atmosphere, and there were cattle and sheep (I almost got hit by teasing the cattle)
-![WechatIMG377.jpg](/img/WechatIMG377.jpg)
-![WechatIMG378.jpg](/img/WechatIMG378.jpg)
-![WechatIMG379.jpg](/img/WechatIMG379.jpg)
-![WechatIMG380.jpg](/img/WechatIMG380.jpg)
-Here am I, performing a handstand for everyone~
-![WechatIMG381.jpg](/img/WechatIMG381.jpg)
-![WechatIMG382.jpg](/img/WechatIMG382.jpg)
-![WechatIMG383.jpg](/img/WechatIMG383.jpg)
-![WechatIMG384.jpg](/img/WechatIMG384.jpg)
-
-### DAY 8 THE END
-On the last day, we took the shortcut to Shenzhen.
-
-## LANGAUGE & DIALECT
-ENGLISH, MANDARIN, CANTONESE(A LITTLE), HAKKA(A LITTLE),TEOCHEW(A LITTLE)
+* [**Android Blowing Candle**](https://github.com/Smrtyan/BlowingCandle) - Sound sensor interaction
+* [**Random Cat App**](https://github.com/Smrtyan/MyCatApp) - RESTful API practice
+* [**Calorie Recorder**](https://github.com/Smrtyan/CalorieRecorder) - SQLite & Multi-activity UI
+* [**More on GitHub...**](https://github.com/Smrtyan)

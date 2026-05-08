@@ -1,40 +1,79 @@
-## 爱折腾的我
-
-* 初中时，同桌拿着他的摩托罗拉里程碑手机 告诉我 安卓手机可以刷机，我回家拿着家人的htc g3 （代号hero），每天闲着没事就逛各种论坛，在笔记本安装好刷机精灵，下载不同的第三方rom，刷系统
-![hero.jpg](/img/heroright.jpg)
-* 初中还喜欢给电脑装系统，下载网络上的ghost，老猴桃等软件
-* 大一，一个同学介绍我购买1元腾讯云学生机（使用过windows，ubuntu，centOS等镜像），于是开始接触linux，在自己笔记本搭建了各种服务，（如samba，ftp，nginx，shadowsocks，内网穿透等）有意思的我用shadowsocks实现了舍友半夜的上网自由（宿舍区12点准时断网，但教学区不断网，通过一台小树莓派实现流量中转）
-* 大三前的暑假，了解到下学期移动开发可能有ios课程，了解到ios开发需要mac os，我通过网络教程成功将我的惠普笔记本安装上苹果系统Mac OS 10.12，10.13，成功安装XCode，也能起到ios虚拟机
-![hp2570p-mac](/img/post-bg-2018-05-10-macos.jpeg)
-
 ## 工作及教育经历
-<table>
-  <tr>
-    <td>香港-某公司</td>
-    <td>2024.04-至今</td>
-    <td>分析程序员</td>
-  </tr>
-  <tr>
-    <td>深圳中软国际科技服务有限公司</td>
-    <td>2022.6~2024.04</td>
-    <td>流程IT-数据库资源管理模块-Java中级开发</td>
-  </tr>
-  <tr>
-    <td>深圳醋溜科技有限公司</td>
-    <td>2020.06~2022.03</td>
-    <td>开发工程师</td>
-  </tr>
-  <tr>
-    <td>深圳迅竞科技有限责任公司</td>
-    <td>2019.06~2020.05</td>
-    <td>助教(实习)</td>
-  </tr>
-  <tr>
-    <td>东莞理工学院</td>
-    <td>2016.09~2020.06</td>
-    <td>计算机科学与技术专业-本科</td>
-  </tr>
-</table>
+
+<div class="resume-item">
+    <div class="resume-header">
+        <span class="resume-title"><strong>香港某公司</strong> | 分析程序员 (Analyst Programmer)</span>
+        <span class="resume-date">2024.04 - 至今</span>
+    </div>
+</div>
+
+<div class="resume-item">
+    <div class="resume-header">
+        <span class="resume-title"><strong>中软国际</strong> | Java 开发工程师 (流程IT - 数据库资源管理)</span>
+        <span class="resume-date">2022.06 - 2024.04</span>
+    </div>
+    <div class="resume-desc">主要负责流程 IT 体系下数据库资源管理模块的研发工作。</div>
+</div>
+
+<div class="resume-item">
+    <div class="resume-header">
+        <span class="resume-title"><strong>深圳醋溜科技</strong> | 开发工程师</span>
+        <span class="resume-date">2020.06 - 2022.03</span>
+    </div>
+</div>
+
+<div class="resume-item">
+    <div class="resume-header">
+        <span class="resume-title"><strong>深圳迅竞科技</strong> | 开发助教 (实习)</span>
+        <span class="resume-date">2019.06 - 2020.05</span>
+    </div>
+</div>
+
+<div class="resume-item">
+    <div class="resume-header">
+        <span class="resume-title"><strong>东莞理工学院</strong> | 计算机科学与技术 (本科)</span>
+        <span class="resume-date">2016.09 - 2020.06</span>
+    </div>
+</div>
+
+<style>
+    .resume-item {
+        margin-bottom: 1.5rem;
+        padding-bottom: 1rem;
+        border-bottom: 1px dashed #eee;
+    }
+    .resume-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 0.5rem;
+    }
+    .resume-title {
+        font-size: 1.3rem;
+        color: #333;
+    }
+    .resume-date {
+        color: #888;
+        font-size: 1.1rem;
+        min-width: 150px;
+        text-align: right;
+    }
+    .resume-desc {
+        font-size: 1.1rem;
+        color: #666;
+        line-height: 1.6;
+    }
+    @media (max-width: 600px) {
+        .resume-header {
+            flex-direction: column;
+            align-items: flex-start;
+        }
+        .resume-date {
+            text-align: left;
+            margin-top: 0.2rem;
+        }
+    }
+</style>
 
 ## 获奖经历&证书
 
@@ -65,103 +104,33 @@
     <td>2017-06</td>
   </tr>
 </table>
-## 露营经历
 
-> 2021.02.12-2021.02.19 
-### 背景
-户外经验丰富的老板开着他的越野车带我们从深圳出发游西部
-留念一下，疫情大数据行程卡记录了这七天经过的部分城市～
-![WechatIMG360.jpg](/img/WechatIMG360.jpg)
+## 兴趣使然的“折腾”史
 
-出发了，除夕这天 泡面也很香
+> “如果一个东西能刷机，那它就不只是一个东西，而是一个玩具。”
 
-![WechatIMG361.jpg](/img/WechatIMG361.jpg)
+* **初中：ROM 刷机狂热者**
+  同桌的摩托罗拉里程碑开启了我的新世界。每天守着家里的 HTC G3 (Hero)，在刷机精灵和各种论坛间穿梭，只为体验那一丝丝系统更新带来的快感。
+  ![hero.jpg](/img/heroright.jpg)
 
-### DAY 1 广西省南宁市东敢水库
+* **大学：从 1 元云主机到“断网战神”**
+  大一靠 1 元腾讯云学生机入坑 Linux。曾用树莓派搭建 shadowsocks 绕过宿舍 12 点断网限制，成功实现了全宿舍的“半夜上网自由”，在教学区与宿舍区之间建起了一条“流量暗道”。
 
-第一晚，这第一次住帐篷，水库旁挺热闹，很多人扎帐篷，唱歌吃烧烤，特别有氛围
-![WechatIMG356.jpg](/img/WechatIMG356.jpg)
-第二天凌晨，户外有点凉还好睡袋暖和，早上帐篷角有露珠，说是小草也会哈气早上凝结的水珠
-![WechatIMG358.jpg](/img/WechatIMG358.jpg)
-![WechatIMG358.jpg](/img/WechatIMG359.jpg)
-![WechatIMG362.jpg](/img/WechatIMG362.jpg)
-
-早上营地附近没有小店，自己煎鸡蛋吃
-<video width="320" height="240" controls>
-    <source src="/img/2024-01-01 22.43.16.mp4" type="video/mp4">
-</video>
-
-### DAY 2 广西省百色市坡谷汽车营地
-一路开到坡谷汽车营地，今晚的条件好一点，终于可以洗澡了
-![WechatIMG369.jpg](/img/WechatIMG369.jpg)
-
-和高楼大厦比起，这儿风景真的不错
-![WechatIMG364.jpg](/img/WechatIMG364.jpg)
-
-![WechatIMG365.jpg](/img/WechatIMG365.jpg)
-
-![WechatIMG366.jpg](/img/WechatIMG366.jpg)
-
-![WechatIMG367.jpg](/img/WechatIMG367.jpg)
-
-![WechatIMG368.jpg](/img/WechatIMG368.jpg)
-
-### DAY 3 - 4 云南省昆明市
-今天赶车去云南昆明，迎接师兄，他直飞昆明，三人自驾游变四人，人多步伐虽变慢，但更有聊
-
-这两天逛了些古镇，实在太冻，而且是住民宿，没啥特别，故没咋拍照
-
-### DAY 5 - 6 云南省大理市洱海
-
-不得不说云南是充满鲜花的神奇地方
-![WechatIMG370.jpg](/img/WechatIMG370.jpg)
-![WechatIMG371.jpg](/img/WechatIMG371.jpg)
-![WechatIMG372.jpg](/img/WechatIMG372.jpg)
-![WechatIMG373.jpg](/img/WechatIMG373.jpg)
-![WechatIMG374.jpg](/img/WechatIMG374.jpg)
-![WechatIMG375.jpg](/img/WechatIMG375.jpg)
-![WechatIMG376.jpg](/img/WechatIMG376.jpg)
-
-### DAY 7 贵州省六盘水市乌蒙大草原
-今天开到了贵州乌蒙大草原山顶，仙气飘飘，还有牛羊（逗牛差点被撞）
-![WechatIMG377.jpg](/img/WechatIMG377.jpg)
-![WechatIMG378.jpg](/img/WechatIMG378.jpg)
-![WechatIMG379.jpg](/img/WechatIMG379.jpg)
-![WechatIMG380.jpg](/img/WechatIMG380.jpg)
-
-小弟我在此给大伙表演一个倒立
-![WechatIMG381.jpg](/img/WechatIMG381.jpg)
-![WechatIMG382.jpg](/img/WechatIMG382.jpg)
-![WechatIMG383.jpg](/img/WechatIMG383.jpg)
-![WechatIMG384.jpg](/img/WechatIMG384.jpg)
-
-### DAY 8 自驾游结束
-最后一天驱车折返，回去上班咯
-
-## 大学期间 demo
-
-[andorid吹蜡烛(声音传感器的课程demo)](https://github.com/Smrtyan/BlowingCandle)
-
-[android随机猫猫图片获取(RESTfull api课程demo)](https://github.com/Smrtyan/MyCatApp)
-
-[android卡路里记录（sqlite,多activity，第三方库使用课程demo）](https://github.com/Smrtyan/CalorieRecorder)
-
-[更多？](https://github.com/Smrtyan)
+* **移动开发前哨站：惠普笔记本上的“苹果梦”**
+  为了迎接 iOS 开发课，在不购买 Mac 的情况下，靠着各路黑苹果教程，硬是在惠普笔记本上把 macOS 10.12/10.13 给跑了起来，Xcode 开发和虚拟机调试两不误。
+  ![hp2570p-mac](/img/post-bg-2018-05-10-macos.jpeg)
 
 ## 在校经历
 
-* 机电实验室干事（2017.07-2017.09）
+* **机电实验室干事 (2017.07 - 2017.09)**
+  针对机床断片检测难的问题，搞了一套“树莓派+Arduino+传感器”的实时监测方案。用 Python 抓串口数据、MySQL 存库、LAMP 搭页面，实现了在办公室里喝着茶就能实时监控车间数据的“数字化工厂”雏形。
 
-    工业的机床在切割模具的时候有断片的时候，如果不能及时检测到断片，会导致后面一批切割的产品不合格而造成损失。由于大家都是大一的学生，进度迟迟没有跟进，后来我提出并实现了一个简单易操作的方案：在机床附近布置一个树莓派，用连接arduino板和声音，电流等传感器，然后交由树莓派呈现数据（python处理串口数据，存储到mysql，lamp布置动态网页，用ajax从数据库实时读取最新数据），绘制动态曲线，于是，在办公室里，我们通过访问树莓派的ip实现实时获取机床传感器数据。
+* **嵌入式实验室助理 (2017.09 - 2018.02)**
+  维护实验室的“古董”电脑。曾用几台废旧主机的零件拼凑出能跑多系统的“缝合怪”。作为实验室的网络顾问，帮师兄搭过 LNMP 架构，甚至还“不务正业”地搭建并运维过魔兽世界私服——从编译源码到修改数据库金币、飞天坐标，在那儿深度实践了 Linux 命令和包管理。
 
-* 嵌入式实验室助理（2017.09-2018.02）
+## 大学期间 Demo
 
-    主要是维护电脑整理文档，时间比较多比较自由。
-
-    当时在实验室里有很多以前老是留下的旧电脑，大多都是少内存条或着硬盘，所以不能直接开机，所以自己有拆过电脑，几台电脑的零件拼拼凑凑，自己再给他们装多系统(有时候生成的grub只有一个系统，自己去/boot/grub下修改多系统引导信息）。师兄是命令行控，因此我也对各种minimal的系统不感冒，安装了最小化系统又面临着不能登录校园上网账号，经常要配置网络，我尝试了一些代理方式，后来我在上面搭了shadowsocks,手机连过去之后全局模式下登录账号，最小化系统里面就能上网。他总是要搭各种环境，lnmp，局域网内的文件服务器(考虑各种安全问题，他自己配置防火墙，不合法的网段不能访问它，不接受ping包.....).
-
-    后来他又搭了魔兽世界服务器(好像主要是C++写的)，于是在某开源网站，我按照教程，主要靠自己和万能的谷歌排查错误后也成功安装和配置了基本环境(gitclone源代码，配置make和编译环境，安装mysql，导入数据库，编译代码和地图等等)。然后再将魔兽世界客户端的服务器地址指向局域网服务器，就可以内网联机了。期间还进去数据库，手动修改金币等级之类的参数，令我惊讶和痴迷的即便是你把等级改的很高，你的人物技能不一定会比等级比你低很多的强，也修改过坐标，让自己飞跃到新的地方。后来又看到商店有某个很强的装备，经过一些尝试之后自己能够通过修改数据库添加装备。在这期间还经常在命令行对数据库进行备份和还原，暂存游戏的某个进度。
-
-    在这期间，主要学到了linux相关命令以及包管理工具的使用。
-
-
+* [**Android 吹蜡烛**](https://github.com/Smrtyan/BlowingCandle) - 声音传感器互动
+* [**Random Cat App**](https://github.com/Smrtyan/MyCatApp) - RESTful API 实践
+* [**Calorie Recorder**](https://github.com/Smrtyan/CalorieRecorder) - SQLite 本地存储与多页面交互
+* [**更多作品在 GitHub...**](https://github.com/Smrtyan)

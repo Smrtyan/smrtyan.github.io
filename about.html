@@ -7,22 +7,112 @@ multilingual: true
 ---
 
 <!-- Language Selector -->
-<select class="sel-lang" onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
-    <option value="0" selected> 中文 Chinese </option>
-    <option value="1"> 英文 English </option>
-</select>
+<div class="lang-selector-container">
+    <select class="sel-lang" onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
+        <option value="0"> 中文 Chinese </option>
+        <option value="1"> 英文 English </option>
+        <option value="2" selected> 廣東話 Cantonese </option>
+    </select>
+</div>
+
+<style>
+    .lang-selector-container {
+        margin-bottom: 20px;
+    }
+    .about-tabs {
+        display: flex;
+        border-bottom: 1px solid #ddd;
+        margin-bottom: 20px;
+    }
+    .about-tab-item {
+        padding: 10px 20px;
+        cursor: pointer;
+        border: 1px solid transparent;
+        border-bottom: none;
+        margin-bottom: -1px;
+        color: #808080;
+    }
+    .about-tab-item.active {
+        border-color: #ddd;
+        border-radius: 4px 4px 0 0;
+        background: #fff;
+        color: #0085a1;
+        font-weight: bold;
+    }
+    .about-tab-content {
+        display: none;
+    }
+    .about-tab-content.active {
+        display: block;
+    }
+</style>
 
 <!-- Chinese Version -->
-<div class="zh post-container">
-    {% capture about_zh %}{% include about/zh.md %}{% endcapture %}
-    {{ about_zh | markdownify }}
+<div class="zh post-container" style="display:none">
+    <div class="about-tabs">
+        <div class="about-tab-item active" onclick="switchTab(event, 'work-zh')">工作及教育</div>
+        <div class="about-tab-item" onclick="switchTab(event, 'travel-zh')">旅游/露营</div>
+    </div>
+    
+    <div id="work-zh" class="about-tab-content active">
+        {% capture about_zh %}{% include about/zh.md %}{% endcapture %}
+        {{ about_zh | markdownify }}
+    </div>
+    
+    <div id="travel-zh" class="about-tab-content">
+        {% capture about_camping %}{% include about/camping.md %}{% endcapture %}
+        {{ about_camping | markdownify }}
+    </div>
 </div>
 
 <!-- English Version -->
-<div class="en post-container">
-    {% capture about_en %}{% include about/en.md %}{% endcapture %}
-    {{ about_en | markdownify }}
+<div class="en post-container" style="display:none">
+    <div class="about-tabs">
+        <div class="about-tab-item active" onclick="switchTab(event, 'work-en')">Experience</div>
+        <div class="about-tab-item" onclick="switchTab(event, 'travel-en')">Travel/Camping</div>
+    </div>
+    
+    <div id="work-en" class="about-tab-content active">
+        {% capture about_en %}{% include about/en.md %}{% endcapture %}
+        {{ about_en | markdownify }}
+    </div>
+    
+    <div id="travel-en" class="about-tab-content">
+        {% capture about_camping_en %}{% include about/camping_en.md %}{% endcapture %}
+        {{ about_camping_en | markdownify }}
+    </div>
 </div>
+
+<!-- Cantonese Version -->
+<div class="zh-hk post-container">
+    <div class="about-tabs">
+        <div class="about-tab-item active" onclick="switchTab(event, 'work-hk')">工作同教育</div>
+        <div class="about-tab-item" onclick="switchTab(event, 'travel-hk')">旅遊/露营</div>
+    </div>
+    
+    <div id="work-hk" class="about-tab-content active">
+        {% capture about_hk %}{% include about/zh_hk.md %}{% endcapture %}
+        {{ about_hk | markdownify }}
+    </div>
+    
+    <div id="travel-hk" class="about-tab-content">
+        {% capture about_camping_hk %}{% include about/camping_hk.md %}{% endcapture %}
+        {{ about_camping_hk | markdownify }}
+    </div>
+</div>
+
+<script>
+    function switchTab(event, tabId) {
+        const container = event.currentTarget.closest('.post-container');
+        // Remove active class from tabs and contents within this language container
+        container.querySelectorAll('.about-tab-item').forEach(tab => tab.classList.remove('active'));
+        container.querySelectorAll('.about-tab-content').forEach(content => content.classList.remove('active'));
+        
+        // Add active class to selected tab and content
+        event.currentTarget.classList.add('active');
+        container.querySelector('#' + tabId).classList.add('active');
+    }
+</script>
 
 
 {% if site.disqus_username %}

@@ -1,8 +1,32 @@
-_site
-node_modules
+# Jekyll & Build
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+
+# Ruby / Bundler
+vendor/bundle/
+vendor/cache/
+.bundle/
+Gemfile.lock.bak
+Gemfile.bak
+
+# Node / NPM
+node_modules/
 npm-debug.log
+package-lock.json
+
+# OS files
 .DS_Store
-*/.DS_Store
-*/*/.DS_Store
-*.sh
-.vscode
+**/.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.log
+tmp/

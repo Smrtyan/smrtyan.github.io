@@ -17,6 +17,8 @@
         "grunt-contrib-uglify": "~0.5.1"
     },
     "scripts": {
+        "start": "JEKYLL_NO_BUNDLER_REQUIRE=true GEM_HOME=$HOME/.gem/ruby/3.3.0 $HOME/.gem/ruby/3.3.0/bin/jekyll serve --no-watch",
+        "build": "JEKYLL_NO_BUNDLER_REQUIRE=true GEM_HOME=$HOME/.gem/ruby/3.3.0 $HOME/.gem/ruby/3.3.0/bin/jekyll build",
         "preview": "cd _site; python -m SimpleHTTPServer 8020",
         "py3view": "cd _site; python3 -m http.server 8020",
         "watch"  : "grunt watch & npm run preview & jekyll serve -w",
