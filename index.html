@@ -1,7 +1,118 @@
 ---
 layout: page
-description: ""
+description: "Keith Wong - Full Stack Developer | Computer Science Graduate | Tech Enthusiast"
 ---
+
+<!-- Resume Highlights for HR -->
+<div class="resume-highlights">
+    <div class="resume-hero">
+        <h2>👨‍💻 Keith Wong - Full Stack Developer</h2>
+        <p class="lead">Computer Science Graduate with 4+ years of experience in software development, database management, and system architecture.</p>
+        
+        <div class="quick-info">
+            <div class="info-item">
+                <strong>📍 Current Position:</strong> Analyst Programmer at Hong Kong Wisdome Information Technology (Hong Kong 运享通信息科技有限公司) (2024.04 - Present)
+            </div>
+            <div class="info-item">
+                <strong>🎓 Education:</strong> B.S. Computer Science, Dongguan University of Technology
+            </div>
+            <div class="info-item">
+                <strong>🌟 Key Skills:</strong> Java Spring Boot, Python Flask, Vue.js, MySQL, Linux, DevOps
+            </div>
+        </div>
+        
+        <div class="cta-buttons">
+            <a href="/about/" class="btn btn-primary">View Full Resume/CV</a>
+            <a href="https://github.com/Smrtyan" class="btn btn-outline">GitHub Profile</a>
+        </div>
+    </div>
+</div>
+
+<style>
+    .resume-highlights {
+        background-color: #f8f9fa;
+        border-radius: 8px;
+        padding: 2rem;
+        margin-bottom: 2.5rem;
+        border-left: 4px solid #0085a1;
+    }
+    .resume-hero h2 {
+        color: #333;
+        margin-bottom: 1rem;
+        font-weight: bold;
+    }
+    .resume-hero .lead {
+        font-size: 1.1rem;
+        color: #555;
+        margin-bottom: 1.5rem;
+        line-height: 1.6;
+    }
+    .quick-info {
+        background-color: white;
+        border-radius: 6px;
+        padding: 1.5rem;
+        margin-bottom: 1.5rem;
+        border: 1px solid #eaeaea;
+    }
+    .info-item {
+        margin-bottom: 0.8rem;
+        font-size: 0.95rem;
+        color: #444;
+    }
+    .info-item:last-child {
+        margin-bottom: 0;
+    }
+    .info-item strong {
+        color: #333;
+        min-width: 140px;
+        display: inline-block;
+    }
+    .cta-buttons {
+        display: flex;
+        gap: 1rem;
+        flex-wrap: wrap;
+    }
+    .btn {
+        padding: 0.6rem 1.5rem;
+        border-radius: 4px;
+        text-decoration: none;
+        font-weight: 500;
+        transition: all 0.2s ease;
+    }
+    .btn-primary {
+        background-color: #0085a1;
+        color: white;
+        border: 1px solid #0085a1;
+    }
+    .btn-primary:hover {
+        background-color: #006d84;
+        border-color: #006d84;
+        color: white;
+    }
+    .btn-outline {
+        background-color: transparent;
+        color: #0085a1;
+        border: 1px solid #0085a1;
+    }
+    .btn-outline:hover {
+        background-color: #0085a1;
+        color: white;
+    }
+    @media (max-width: 768px) {
+        .resume-highlights {
+            padding: 1.5rem;
+        }
+        .cta-buttons {
+            flex-direction: column;
+        }
+        .btn {
+            width: 100%;
+            text-align: center;
+        }
+    }
+</style>
+
+<hr style="margin: 2.5rem 0; border-color: #eee;">
 
 {% for post in paginator.posts %}
 <div class="post-preview">

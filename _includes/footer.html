@@ -202,25 +202,25 @@
         var _hash = _hash || window.location.hash;
         // en
         if(_hash == "#en"){
-            $select.selectedIndex = 1;
+            if ($select) $select.selectedIndex = 1;
             if($en) { $en.style.display = "block"; $en.classList.add("active"); }
             if($zh) { $zh.style.display = "none"; $zh.classList.remove("active"); }
             if($hk) { $hk.style.display = "none"; $hk.classList.remove("active"); }
         // zh-hk as default
         }else if(_hash == "#zh-hk" || _hash == "#hk" || _hash == "#zh-hk-default"){
-            $select.selectedIndex = 2;
+            if ($select) $select.selectedIndex = 2;
             if($hk) { $hk.style.display = "block"; $hk.classList.add("active"); }
             if($zh) { $zh.style.display = "none"; $zh.classList.remove("active"); }
             if($en) { $en.style.display = "none"; $en.classList.remove("active"); }
         // zh
         }else if(_hash == "#zh"){
-            $select.selectedIndex = 0;
+            if ($select) $select.selectedIndex = 0;
             if($zh) { $zh.style.display = "block"; $zh.classList.add("active"); }
             if($en) { $en.style.display = "none"; $en.classList.remove("active"); }
             if($hk) { $hk.style.display = "none"; $hk.classList.remove("active"); }
         // default to zh-hk
         }else{
-            $select.selectedIndex = 2;
+            if ($select) $select.selectedIndex = 2;
             if($hk) { $hk.style.display = "block"; $hk.classList.add("active"); }
             if($zh) { $zh.style.display = "none"; $zh.classList.remove("active"); }
             if($en) { $en.style.display = "none"; $en.classList.remove("active"); }

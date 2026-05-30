@@ -2,9 +2,16 @@
 
 <div class="resume-item">
     <div class="resume-header">
-        <span class="resume-title"><strong>香港某公司</strong> | 分析程序员 (Analyst Programmer)</span>
+        <span class="resume-title"><strong>香港运享通信息科技有限公司 (Hong Kong Wisdome Information Technology)</strong> | 分析程序员 (Analyst Programmer)</span>
         <span class="resume-date">2024.04 - 至今</span>
     </div>
+    <div class="resume-desc"><strong>政府项目外包团队 | 全栈工程师</strong>
+    <ul>
+        <li><strong>全栈维护与故障排查：</strong>使用 PHP 和 Next.js 管理和优化核心员工管理平台，解决跨栈 bug，实施新业务需求，维护复杂的公务员入职工作流自动化任务。</li>
+        <li><strong>数据分析与管理系统：</strong>使用 Spring Cloud Alibaba 主导政府管理门户后端开发，与前端和移动团队紧密合作构建强大的数据统计模块和管理机制。</li>
+        <li><strong>遗留系统稳定性：</strong>维护 WildFly 上运行的关键任务政府 Java EJB 系统，通过诊断运行时异常确保 99.9% 正常运行时间。</li>
+        <li><strong>CI/CD 自动化：</strong>配置和维护 Jenkins 自动化部署管道，简化开发生命周期，缩短各政府子项目的发布周期。</li>
+    </ul></div>
 </div>
 
 <div class="resume-item">
@@ -12,7 +19,7 @@
         <span class="resume-title"><strong>中软国际</strong> | Java 开发工程师 (流程IT - 数据库资源管理)</span>
         <span class="resume-date">2022.06 - 2024.04</span>
     </div>
-    <div class="resume-desc">主要负责流程 IT 体系下数据库资源管理模块的研发工作。</div>
+    <div class="resume-desc">主要负责流程 IT 体系下数据库资源管理模块的研发工作，使用 Java Spring Boot 框架，参与数据库资源分配、监控及优化系统的设计与开发。</div>
 </div>
 
 <div class="resume-item">
@@ -20,14 +27,10 @@
         <span class="resume-title"><strong>深圳醋溜科技</strong> | 开发工程师</span>
         <span class="resume-date">2020.06 - 2022.03</span>
     </div>
+    <div class="resume-desc">参与多个企业内部系统的开发与维护，主要技术栈包括 Python Flask、Vue.js 和 MySQL，负责前后端功能实现与优化。</div>
 </div>
 
-<div class="resume-item">
-    <div class="resume-header">
-        <span class="resume-title"><strong>深圳迅竞科技</strong> | 开发助教 (实习)</span>
-        <span class="resume-date">2019.06 - 2020.05</span>
-    </div>
-</div>
+
 
 <div class="resume-item">
     <div class="resume-header">
@@ -36,42 +39,75 @@
     </div>
 </div>
 
+
+
+## 技术技能
+
+<div class="skills-section">
+    <div class="skill-category">
+        <h4>编程语言</h4>
+        <div class="skill-tags">
+            <span class="skill-tag">Java</span>
+            <span class="skill-tag">Python</span>
+            <span class="skill-tag">JavaScript</span>
+            <span class="skill-tag">C/C++</span>
+            <span class="skill-tag">SQL</span>
+        </div>
+    </div>
+    
+    <div class="skill-category">
+        <h4>框架与工具</h4>
+        <div class="skill-tags">
+            <span class="skill-tag">Spring Boot</span>
+            <span class="skill-tag">Flask</span>
+            <span class="skill-tag">Vue.js</span>
+            <span class="skill-tag">Android</span>
+            <span class="skill-tag">MySQL</span>
+            <span class="skill-tag">Linux</span>
+            <span class="skill-tag">Git</span>
+        </div>
+    </div>
+    
+    <div class="skill-category">
+        <h4>其他能力</h4>
+        <div class="skill-tags">
+            <span class="skill-tag">数据库设计与优化</span>
+            <span class="skill-tag">系统架构</span>
+            <span class="skill-tag">API 开发</span>
+            <span class="skill-tag">DevOps</span>
+            <span class="skill-tag">技术教学</span>
+        </div>
+    </div>
+</div>
+
 <style>
-    .resume-item {
+    .skills-section {
+        margin: 2rem 0;
+    }
+    .skill-category {
         margin-bottom: 1.5rem;
-        padding-bottom: 1rem;
-        border-bottom: 1px dashed #eee;
     }
-    .resume-header {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
+    .skill-category h4 {
         margin-bottom: 0.5rem;
-    }
-    .resume-title {
-        font-size: 1.3rem;
         color: #333;
+        font-size: 1.2rem;
     }
-    .resume-date {
-        color: #888;
-        font-size: 1.1rem;
-        min-width: 150px;
-        text-align: right;
+    .skill-tags {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.5rem;
     }
-    .resume-desc {
-        font-size: 1.1rem;
-        color: #666;
-        line-height: 1.6;
+    .skill-tag {
+        background-color: #f5f5f5;
+        border: 1px solid #ddd;
+        border-radius: 20px;
+        padding: 0.4rem 1rem;
+        font-size: 0.9rem;
+        color: #555;
     }
-    @media (max-width: 600px) {
-        .resume-header {
-            flex-direction: column;
-            align-items: flex-start;
-        }
-        .resume-date {
-            text-align: left;
-            margin-top: 0.2rem;
-        }
+    .skill-tag:hover {
+        background-color: #e8e8e8;
+        cursor: default;
     }
 </style>
 

@@ -6,46 +6,368 @@ header-img: "img/about-bg.jpg"
 multilingual: true
 ---
 
-<!-- Language Selector -->
+<!-- Modern Language Selector -->
 <div class="lang-selector-container">
-    <select class="sel-lang" onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
-        <option value="0"> 中文 Chinese </option>
-        <option value="1"> 英文 English </option>
-        <option value="2" selected> 廣東話 Cantonese </option>
-    </select>
+    <div class="lang-btn-group">
+        <button class="lang-btn" data-lang="zh" onclick="onLanChange(0)">
+            🇨🇳 中文 Chinese
+        </button>
+        <button class="lang-btn" data-lang="en" onclick="onLanChange(1)">
+            🇬🇧 英文 English
+        </button>
+        <button class="lang-btn active" data-lang="zh-hk" onclick="onLanChange(2)">
+            🇭🇰 廣東話 Cantonese
+        </button>
+    </div>
 </div>
 
 <style>
+    /* Modern Language Selector */
     .lang-selector-container {
-        margin-bottom: 20px;
+        margin-bottom: 2.5rem;
+        text-align: center;
     }
+    .lang-btn-group {
+        display: inline-flex;
+        background: #f8f9fa;
+        border-radius: 50px;
+        padding: 6px;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+        border: 1px solid #eaeaea;
+    }
+    .lang-btn {
+        border: none;
+        background: transparent;
+        padding: 12px 24px;
+        border-radius: 50px;
+        font-size: 1rem;
+        cursor: pointer;
+        color: #666;
+        transition: all 0.3s ease;
+        font-weight: 500;
+        display: flex;
+        align-items: center;
+        gap: 8px;
+    }
+    .lang-btn:hover {
+        color: #0085a1;
+        background: rgba(0, 133, 161, 0.05);
+    }
+    .lang-btn.active {
+        background: #0085a1;
+        color: white;
+        box-shadow: 0 4px 12px rgba(0, 133, 161, 0.2);
+    }
+    
+    /* Modern Tab Design */
     .about-tabs {
         display: flex;
-        border-bottom: 1px solid #ddd;
-        margin-bottom: 20px;
+        gap: 10px;
+        margin-bottom: 2rem;
+        background: #f8f9fa;
+        border-radius: 12px;
+        padding: 10px;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.03);
     }
     .about-tab-item {
-        padding: 10px 20px;
+        flex: 1;
+        padding: 16px 24px;
         cursor: pointer;
-        border: 1px solid transparent;
-        border-bottom: none;
-        margin-bottom: -1px;
-        color: #808080;
+        border: none;
+        border-radius: 8px;
+        background: transparent;
+        color: #666;
+        font-size: 1.1rem;
+        font-weight: 500;
+        text-align: center;
+        transition: all 0.3s ease;
+        position: relative;
+        overflow: hidden;
+    }
+    .about-tab-item:hover {
+        background: rgba(0, 133, 161, 0.08);
+        color: #0085a1;
+        transform: translateY(-2px);
     }
     .about-tab-item.active {
-        border-color: #ddd;
-        border-radius: 4px 4px 0 0;
-        background: #fff;
-        color: #0085a1;
-        font-weight: bold;
+        background: linear-gradient(135deg, #0085a1, #00a8d6);
+        color: white;
+        box-shadow: 0 6px 16px rgba(0, 133, 161, 0.25);
+        font-weight: 600;
     }
+    .about-tab-item.active::after {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 40%;
+        height: 3px;
+        background: white;
+        border-radius: 3px;
+    }
+    
     .about-tab-content {
         display: none;
+        animation: fadeIn 0.5s ease;
+        background: white;
+        border-radius: 12px;
+        padding: 2rem;
+        box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+        margin-top: 10px;
+        border: 1px solid #f0f0f0;
     }
     .about-tab-content.active {
         display: block;
     }
+    
+    /* Enhanced Resume Items from markdown files */
+    .post-container .resume-item {
+        margin-bottom: 2.5rem;
+        padding: 1.5rem;
+        background: white;
+        border-radius: 10px;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+        border-left: 4px solid #0085a1;
+        transition: all 0.3s ease;
+        position: relative;
+        overflow: hidden;
+    }
+    .post-container .resume-item:hover {
+        transform: translateY(-4px);
+        box-shadow: 0 8px 24px rgba(0, 133, 161, 0.12);
+        border-left-color: #00a8d6;
+    }
+    .post-container .resume-item::before {
+        content: '💼';
+        position: absolute;
+        top: 1.5rem;
+        left: -30px;
+        font-size: 1.2rem;
+        opacity: 0.5;
+    }
+    .post-container .resume-item:nth-child(2)::before { content: '🚀'; }
+    .post-container .resume-item:nth-child(3)::before { content: '🔧'; }
+    .post-container .resume-item:nth-child(4)::before { content: '📚'; }
+    .post-container .resume-item:nth-child(5)::before { content: '🎓'; }
+    
+    .post-container .resume-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 1rem;
+    }
+    .post-container .resume-title {
+        font-size: 1.3rem;
+        color: #333;
+        font-weight: 600;
+    }
+    .post-container .resume-date {
+        color: #888;
+        font-size: 1.1rem;
+        min-width: 150px;
+        text-align: right;
+        background: #f8f9fa;
+        padding: 4px 12px;
+        border-radius: 20px;
+        font-weight: 500;
+    }
+    .post-container .resume-desc {
+        font-size: 1.05rem;
+        color: #555;
+        line-height: 1.7;
+        padding-left: 10px;
+        border-left: 3px solid #eaeaea;
+        margin-left: 5px;
+    }
+    
+    /* Enhanced Skills Section */
+    .post-container .skills-section {
+        margin: 2.5rem 0;
+    }
+    .post-container .skill-category {
+        margin-bottom: 2rem;
+    }
+    .post-container .skill-category h4 {
+        margin-bottom: 1rem;
+        color: #333;
+        font-size: 1.3rem;
+        font-weight: 600;
+        padding-bottom: 0.5rem;
+        border-bottom: 2px solid #f0f0f0;
+    }
+    .post-container .skill-tags {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.8rem;
+    }
+    .post-container .skill-tag {
+        background: linear-gradient(135deg, #0085a1, #00c9ff);
+        color: white;
+        border: none;
+        border-radius: 50px;
+        padding: 0.6rem 1.2rem;
+        font-size: 0.95rem;
+        font-weight: 500;
+        box-shadow: 0 3px 8px rgba(0, 133, 161, 0.2);
+        transition: all 0.3s ease;
+    }
+    .post-container .skill-tag:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 6px 12px rgba(0, 133, 161, 0.3);
+        background: linear-gradient(135deg, #006d84, #00a8d6);
+    }
+    
+    /* Tables styling */
+    .post-container table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 1.5rem 0;
+        border-radius: 10px;
+        overflow: hidden;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    }
+    .post-container th {
+        background: linear-gradient(135deg, #0085a1, #00a8d6);
+        color: white;
+        padding: 1.2rem;
+        text-align: left;
+        font-weight: 600;
+    }
+    .post-container td {
+        padding: 1rem 1.2rem;
+        border-bottom: 1px solid #f0f0f0;
+        color: #555;
+    }
+    .post-container tr:hover {
+        background: #f8f9fa;
+    }
+    
+    /* Animations */
+    @keyframes fadeIn {
+        from { opacity: 0; transform: translateY(10px); }
+        to { opacity: 1; transform: translateY(0); }
+    }
+    
+    /* Responsive Design */
+    @media (max-width: 768px) {
+        .lang-btn-group {
+            flex-direction: column;
+            border-radius: 12px;
+            width: 100%;
+        }
+        .lang-btn {
+            width: 100%;
+            justify-content: center;
+        }
+        .about-tabs {
+            flex-direction: column;
+        }
+        .post-container .resume-header {
+            flex-direction: column;
+            align-items: flex-start;
+            gap: 0.8rem;
+        }
+        .post-container .resume-date {
+            text-align: left;
+            min-width: auto;
+        }
+        .post-container .skill-tags {
+            gap: 0.5rem;
+        }
+    }
 </style>
+
+<script>
+    // Enhanced language switching with button synchronization
+    function updateLangButtons(activeIndex) {
+        document.querySelectorAll('.lang-btn').forEach((btn, index) => {
+            if (index === activeIndex) {
+                btn.classList.add('active');
+            } else {
+                btn.classList.remove('active');
+            }
+        });
+    }
+    
+    // Detect current language from visible container or URL hash
+    function getCurrentLanguageIndex() {
+        // Check URL hash first
+        const hash = window.location.hash;
+        if (hash === '#en') return 1;
+        if (hash === '#zh') return 0;
+        if (hash === '#zh-hk' || hash === '#hk') return 2;
+        
+        // Check visible language container
+        const containers = document.querySelectorAll('.post-container');
+        for (let i = 0; i < containers.length; i++) {
+            const container = containers[i];
+            if (container.style.display !== 'none' && getComputedStyle(container).display !== 'none') {
+                if (container.classList.contains('zh') && !container.classList.contains('zh-hk')) return 0;
+                if (container.classList.contains('en')) return 1;
+                if (container.classList.contains('zh-hk')) return 2;
+            }
+        }
+        
+        // Default to Cantonese
+        return 2;
+    }
+    
+    // Sync button states with current language
+    function syncLangButtons() {
+        const currentIndex = getCurrentLanguageIndex();
+        updateLangButtons(currentIndex);
+    }
+    
+    // Override onLanChange to ensure language switching works
+    (function() {
+        // Store the original function if it exists
+        var originalOnLanChange = window.onLanChange;
+        
+        // Create our enhanced version
+        window.onLanChange = function(index) {
+            // Call original function if it exists
+            if (typeof originalOnLanChange === 'function') {
+                originalOnLanChange(index);
+            } else {
+                // Fallback: directly update hash and call _render if available
+                var hash = index === 0 ? '#zh' : index === 1 ? '#en' : '#zh-hk';
+                window.location.hash = hash;
+                if (typeof _render === 'function') {
+                    _render(hash);
+                }
+            }
+            // Update button states
+            updateLangButtons(index);
+        };
+        
+        // Initialize when DOM is ready
+        document.addEventListener('DOMContentLoaded', function() {
+            // Sync buttons initially
+            syncLangButtons();
+            
+            // Also sync on hash changes
+            window.addEventListener('hashchange', syncLangButtons);
+            
+            // Monitor for language changes via DOM mutations (fallback)
+            const observer = new MutationObserver(function(mutations) {
+                mutations.forEach(function(mutation) {
+                    if (mutation.type === 'attributes' && mutation.attributeName === 'style') {
+                        syncLangButtons();
+                    }
+                });
+            });
+            
+            // Observe all language containers
+            document.querySelectorAll('.post-container').forEach(container => {
+                observer.observe(container, { attributes: true, attributeFilter: ['style'] });
+            });
+        });
+        
+        // Also sync when page fully loads
+        window.addEventListener('load', syncLangButtons);
+    })();
+</script>
 
 <!-- Chinese Version -->
 <div class="zh post-container" style="display:none">
@@ -149,4 +471,239 @@ console.log(thisUrl)
 if (thisUrl.searchParams.get('lang') === 'en') {
     window.location.hash='en'
 }
+</script>
+
+<!-- Lightbox for camping photos -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // 创建lightbox HTML结构
+  const lightboxHTML = `
+    <div class="lightbox-overlay" id="lightboxOverlay">
+      <span class="lightbox-close" id="lightboxClose">&times;</span>
+      <span class="lightbox-nav lightbox-prev" id="lightboxPrev">&#10094;</span>
+      <span class="lightbox-nav lightbox-next" id="lightboxNext">&#10095;</span>
+      <img class="lightbox-image" id="lightboxImage" src="" alt="">
+      <div class="lightbox-caption" id="lightboxCaption"></div>
+    </div>
+    <div class="hover-preview" id="hoverPreview">
+      <img src="" alt="">
+    </div>
+  `;
+  
+  document.body.insertAdjacentHTML('beforeend', lightboxHTML);
+  
+  const overlay = document.getElementById('lightboxOverlay');
+  const image = document.getElementById('lightboxImage');
+  const caption = document.getElementById('lightboxCaption');
+  const closeBtn = document.getElementById('lightboxClose');
+  const prevBtn = document.getElementById('lightboxPrev');
+  const nextBtn = document.getElementById('lightboxNext');
+  const hoverPreview = document.getElementById('hoverPreview');
+  const hoverPreviewImg = hoverPreview.querySelector('img');
+  
+  let currentIndex = 0;
+  let images = [];
+  let hoverTimeout = null;
+  
+  // 收集所有露营照片
+  function collectImages() {
+    images = [];
+    const galleryItems = document.querySelectorAll('.camping-gallery-item img');
+    galleryItems.forEach((img, index) => {
+      images.push({
+        src: img.src,
+        alt: img.alt || '',
+        index: index
+      });
+    });
+  }
+  
+  // 打开lightbox
+  function openLightbox(index) {
+    if (images.length === 0) return;
+    
+    currentIndex = index;
+    const imgData = images[currentIndex];
+    
+    image.src = imgData.src;
+    caption.textContent = imgData.alt;
+    
+    overlay.classList.add('active');
+    document.body.style.overflow = 'hidden'; // 防止背景滚动
+    
+    // 更新导航按钮状态
+    prevBtn.style.display = currentIndex > 0 ? 'flex' : 'none';
+    nextBtn.style.display = currentIndex < images.length - 1 ? 'flex' : 'none';
+  }
+  
+  // 关闭lightbox
+  function closeLightbox() {
+    overlay.classList.remove('active');
+    document.body.style.overflow = '';
+  }
+  
+  // 上一张
+  function showPrev() {
+    if (currentIndex > 0) {
+      openLightbox(currentIndex - 1);
+    }
+  }
+  
+  // 下一张
+  function showNext() {
+    if (currentIndex < images.length - 1) {
+      openLightbox(currentIndex + 1);
+    }
+  }
+  
+  // 显示hover preview
+  function showHoverPreview(e) {
+    const img = e.target;
+    const rect = img.getBoundingClientRect();
+    
+    hoverPreviewImg.src = img.src;
+    hoverPreview.classList.add('active');
+    
+    // 计算位置：优先显示在右侧，如果空间不够则显示在左侧
+    const previewWidth = 400;
+    const previewHeight = 400;
+    const spaceRight = window.innerWidth - rect.right;
+    const spaceLeft = rect.left;
+    const spaceBottom = window.innerHeight - rect.top;
+    
+    let left, top;
+    
+    // 水平位置：优先右侧，不够则左侧
+    if (spaceRight >= previewWidth + 20) {
+      left = rect.right + 10;
+    } else if (spaceLeft >= previewWidth + 20) {
+      left = rect.left - previewWidth - 10;
+    } else {
+      left = Math.max(10, Math.min(rect.left, window.innerWidth - previewWidth - 10));
+    }
+    
+    // 垂直位置：优先与图片顶部对齐，不够则调整
+    if (spaceBottom >= previewHeight + 20) {
+      top = rect.top;
+    } else {
+      top = Math.max(10, window.innerHeight - previewHeight - 10);
+    }
+    
+    hoverPreview.style.left = left + 'px';
+    hoverPreview.style.top = top + 'px';
+  }
+  
+  // 隐藏hover preview
+  function hideHoverPreview() {
+    hoverPreview.classList.remove('active');
+    hoverPreviewImg.src = '';
+  }
+  
+  // 事件监听
+  document.addEventListener('mouseover', function(e) {
+    // 鼠标悬停在露营照片上
+    if (e.target.closest('.camping-gallery-item') && e.target.tagName === 'IMG') {
+      // 清除之前的定时器
+      if (hoverTimeout) {
+        clearTimeout(hoverTimeout);
+      }
+      // 延迟200ms显示，避免快速移动时频繁触发
+      hoverTimeout = setTimeout(() => {
+        showHoverPreview(e);
+      }, 200);
+    }
+  });
+  
+  document.addEventListener('mouseout', function(e) {
+    // 鼠标离开露营照片
+    if (e.target.closest('.camping-gallery-item') && e.target.tagName === 'IMG') {
+      if (hoverTimeout) {
+        clearTimeout(hoverTimeout);
+        hoverTimeout = null;
+      }
+      hideHoverPreview();
+    }
+  });
+  
+  // 点击露营照片打开lightbox
+  document.addEventListener('click', function(e) {
+    // 点击露营照片
+    if (e.target.closest('.camping-gallery-item') && e.target.tagName === 'IMG') {
+      // 隐藏hover preview
+      hideHoverPreview();
+      if (hoverTimeout) {
+        clearTimeout(hoverTimeout);
+        hoverTimeout = null;
+      }
+      
+      collectImages();
+      const clickedImg = e.target;
+      const index = images.findIndex(img => img.src === clickedImg.src);
+      if (index !== -1) {
+        openLightbox(index);
+      }
+    }
+    
+    // 点击遮罩层关闭
+    if (e.target === overlay) {
+      closeLightbox();
+    }
+  });
+  
+  closeBtn.addEventListener('click', function(e) {
+    e.stopPropagation();
+    closeLightbox();
+  });
+  
+  prevBtn.addEventListener('click', function(e) {
+    e.stopPropagation();
+    showPrev();
+  });
+  
+  nextBtn.addEventListener('click', function(e) {
+    e.stopPropagation();
+    showNext();
+  });
+  
+  // 键盘导航
+  document.addEventListener('keydown', function(e) {
+    if (!overlay.classList.contains('active')) return;
+    
+    if (e.key === 'Escape') {
+      closeLightbox();
+    } else if (e.key === 'ArrowLeft') {
+      showPrev();
+    } else if (e.key === 'ArrowRight') {
+      showNext();
+    }
+  });
+  
+  // 触摸滑动支持（移动端）
+  let touchStartX = 0;
+  let touchEndX = 0;
+  
+  overlay.addEventListener('touchstart', function(e) {
+    touchStartX = e.changedTouches[0].screenX;
+  }, {passive: true});
+  
+  overlay.addEventListener('touchend', function(e) {
+    touchEndX = e.changedTouches[0].screenX;
+    handleSwipe();
+  }, {passive: true});
+  
+  function handleSwipe() {
+    const swipeThreshold = 50;
+    const diff = touchStartX - touchEndX;
+    
+    if (Math.abs(diff) > swipeThreshold) {
+      if (diff > 0) {
+        // 向左滑，下一张
+        showNext();
+      } else {
+        // 向右滑，上一张
+        showPrev();
+      }
+    }
+  }
+});
 </script>

@@ -2,9 +2,16 @@
 
 <div class="resume-item">
     <div class="resume-header">
-        <span class="resume-title"><strong>Hong Kong Company</strong> | Analyst Programmer</span>
-        <span class="resume-date">2024.04 - Present</span>
+        <span class="resume-title"><strong>Hong Kong Wisdome Information Technology</strong> | Analyst Programmer (Full-Stack Engineer)</span>
+        <span class="resume-date">Apr 2024 - Present</span>
     </div>
+    <div class="resume-desc"><strong>Government Project Outsource Team</strong>
+    <ul>
+        <li><strong>Full-Stack Maintenance & Troubleshooting:</strong> Managed and optimized core employee management platform using PHP and Next.js, resolved cross-stack bugs, implemented new business requirements, maintained automated crontabs for complex civil servant onboarding workflows.</li>
+        <li><strong>Data Analytics & Management Systems:</strong> Spearheaded backend development for governmental administration portal using Spring Cloud Alibaba, collaborated with frontend/mobile teams to build robust data statistics modules.</li>
+        <li><strong>Legacy System Stability:</strong> Maintained mission-critical governmental Java EJB systems on WildFly, ensuring 99.9% uptime through runtime exception diagnosis and server optimization.</li>
+        <li><strong>CI/CD Automation:</strong> Configured and maintained Jenkins automated deployment pipelines, reducing release turnaround times.</li>
+    </ul></div>
 </div>
 
 <div class="resume-item">
@@ -12,7 +19,7 @@
         <span class="resume-title"><strong>Chinasoft International</strong> | Java Developer (DB Resource Management)</span>
         <span class="resume-date">2022.06 - 2024.04</span>
     </div>
-    <div class="resume-desc">Responsible for the R&D of the database resource management module in the Process IT system.</div>
+    <div class="resume-desc">Responsible for the R&D of database resource management module in Process IT system, using Java Spring Boot framework. Participated in design and development of database resource allocation, monitoring, and optimization systems.</div>
 </div>
 
 <div class="resume-item">
@@ -20,14 +27,10 @@
         <span class="resume-title"><strong>Shenzhen Culiu Tech</strong> | Software Engineer</span>
         <span class="resume-date">2020.06 - 2022.03</span>
     </div>
+    <div class="resume-desc">Developed and maintained multiple internal enterprise systems, working with Python Flask, Vue.js and MySQL stacks. Implemented and optimized both frontend and backend features.</div>
 </div>
 
-<div class="resume-item">
-    <div class="resume-header">
-        <span class="resume-title"><strong>Shenzhen Xunjing Tech</strong> | Teaching Assistant (Intern)</span>
-        <span class="resume-date">2019.06 - 2020.05</span>
-    </div>
-</div>
+
 
 <div class="resume-item">
     <div class="resume-header">
@@ -65,6 +68,76 @@
     <td>2017-06</td>
   </tr>
 </table>
+
+## Technical Skills
+
+<div class="skills-section">
+    <div class="skill-category">
+        <h4>Programming Languages</h4>
+        <div class="skill-tags">
+            <span class="skill-tag">Java</span>
+            <span class="skill-tag">Python</span>
+            <span class="skill-tag">JavaScript</span>
+            <span class="skill-tag">C/C++</span>
+            <span class="skill-tag">SQL</span>
+        </div>
+    </div>
+    
+    <div class="skill-category">
+        <h4>Frameworks & Tools</h4>
+        <div class="skill-tags">
+            <span class="skill-tag">Spring Boot</span>
+            <span class="skill-tag">Flask</span>
+            <span class="skill-tag">Vue.js</span>
+            <span class="skill-tag">Android</span>
+            <span class="skill-tag">MySQL</span>
+            <span class="skill-tag">Linux</span>
+            <span class="skill-tag">Git</span>
+        </div>
+    </div>
+    
+    <div class="skill-category">
+        <h4>Other Capabilities</h4>
+        <div class="skill-tags">
+            <span class="skill-tag">Database Design & Optimization</span>
+            <span class="skill-tag">System Architecture</span>
+            <span class="skill-tag">API Development</span>
+            <span class="skill-tag">DevOps</span>
+            <span class="skill-tag">Technical Teaching</span>
+        </div>
+    </div>
+</div>
+
+<style>
+    .skills-section {
+        margin: 2rem 0;
+    }
+    .skill-category {
+        margin-bottom: 1.5rem;
+    }
+    .skill-category h4 {
+        margin-bottom: 0.5rem;
+        color: #333;
+        font-size: 1.2rem;
+    }
+    .skill-tags {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.5rem;
+    }
+    .skill-tag {
+        background-color: #f5f5f5;
+        border: 1px solid #ddd;
+        border-radius: 20px;
+        padding: 0.4rem 1rem;
+        font-size: 0.9rem;
+        color: #555;
+    }
+    .skill-tag:hover {
+        background-color: #e8e8e8;
+        cursor: default;
+    }
+</style>
 
 ## The "Tinkering" Chronicles
 

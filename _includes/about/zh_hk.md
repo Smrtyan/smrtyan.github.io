@@ -2,9 +2,16 @@
 
 <div class="resume-item">
     <div class="resume-header">
-        <span class="resume-title"><strong>香港某公司</strong> | 分析程序員 (Analyst Programmer)</span>
+        <span class="resume-title"><strong>香港運享通信息科技有限公司 (Hong Kong Wisdome Information Technology)</strong> | 分析程序員 (Analyst Programmer)</span>
         <span class="resume-date">2024.04 - 至今</span>
     </div>
+    <div class="resume-desc"><strong>政府項目外包團隊 | 全棧工程師</strong>
+    <ul>
+        <li><strong>全棧維護同故障排查：</strong>使用 PHP 同 Next.js 管理同優化核心員工管理平台，解決跨棧 bug，實施新業務需求，維護複雜公務員入職工作流自動化任務。</li>
+        <li><strong>數據分析同管理系統：</strong>使用 Spring Cloud Alibaba 主導政府管理門戶後端開發，同前端同移動團隊緊密合作構建強大嘅數據統計模塊同管理機制。</li>
+        <li><strong>遺留系統穩定性：</strong>維護 WildFly 上運行嘅關鍵任務政府 Java EJB 系統，通過診斷運行時異常確保 99.9% 正常運行時間。</li>
+        <li><strong>CI/CD 自動化：</strong>配置同維護 Jenkins 自動化部署管道，簡化開發生命週期，縮短各政府子項目嘅發佈週期。</li>
+    </ul></div>
 </div>
 
 <div class="resume-item">
@@ -12,7 +19,7 @@
         <span class="resume-title"><strong>中軟國際</strong> | Java 開發工程師 (流程IT - 數據庫資源管理)</span>
         <span class="resume-date">2022.06 - 2024.04</span>
     </div>
-    <div class="resume-desc">主要負責流程 IT 體系下數據庫資源管理模塊嘅研發工作。</div>
+    <div class="resume-desc">主要負責流程 IT 體系下數據庫資源管理模塊嘅研發工作，使用 Java Spring Boot 框架，參與數據庫資源分配、監控同優化系統嘅設計同開發。</div>
 </div>
 
 <div class="resume-item">
@@ -20,14 +27,10 @@
         <span class="resume-title"><strong>深圳醋溜科技</strong> | 開發工程師</span>
         <span class="resume-date">2020.06 - 2022.03</span>
     </div>
+    <div class="resume-desc">參與多個企業內部系統嘅開發同維護，主要技術棧包括 Python Flask、Vue.js 同 MySQL，負責前後端功能實現同優化。</div>
 </div>
 
-<div class="resume-item">
-    <div class="resume-header">
-        <span class="resume-title"><strong>深圳迅競科技</strong> | 開發助教 (實習)</span>
-        <span class="resume-date">2019.06 - 2020.05</span>
-    </div>
-</div>
+
 
 <div class="resume-item">
     <div class="resume-header">
@@ -65,6 +68,76 @@
     <td>2017-06</td>
   </tr>
 </table>
+
+## 技術技能
+
+<div class="skills-section">
+    <div class="skill-category">
+        <h4>編程語言</h4>
+        <div class="skill-tags">
+            <span class="skill-tag">Java</span>
+            <span class="skill-tag">Python</span>
+            <span class="skill-tag">JavaScript</span>
+            <span class="skill-tag">C/C++</span>
+            <span class="skill-tag">SQL</span>
+        </div>
+    </div>
+    
+    <div class="skill-category">
+        <h4>框架同工具</h4>
+        <div class="skill-tags">
+            <span class="skill-tag">Spring Boot</span>
+            <span class="skill-tag">Flask</span>
+            <span class="skill-tag">Vue.js</span>
+            <span class="skill-tag">Android</span>
+            <span class="skill-tag">MySQL</span>
+            <span class="skill-tag">Linux</span>
+            <span class="skill-tag">Git</span>
+        </div>
+    </div>
+    
+    <div class="skill-category">
+        <h4>其他能力</h4>
+        <div class="skill-tags">
+            <span class="skill-tag">數據庫設計同優化</span>
+            <span class="skill-tag">系統架構</span>
+            <span class="skill-tag">API 開發</span>
+            <span class="skill-tag">DevOps</span>
+            <span class="skill-tag">技術教學</span>
+        </div>
+    </div>
+</div>
+
+<style>
+    .skills-section {
+        margin: 2rem 0;
+    }
+    .skill-category {
+        margin-bottom: 1.5rem;
+    }
+    .skill-category h4 {
+        margin-bottom: 0.5rem;
+        color: #333;
+        font-size: 1.2rem;
+    }
+    .skill-tags {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.5rem;
+    }
+    .skill-tag {
+        background-color: #f5f5f5;
+        border: 1px solid #ddd;
+        border-radius: 20px;
+        padding: 0.4rem 1rem;
+        font-size: 0.9rem;
+        color: #555;
+    }
+    .skill-tag:hover {
+        background-color: #e8e8e8;
+        cursor: default;
+    }
+</style>
 
 ## 興趣使然嘅「折騰」史
 
