@@ -3,7 +3,7 @@ layout:     post
 title:      "打算更换博客系统"
 subtitle:   "是时候拥抱git了"
 date:       2019-01-11 12:00:00
-author:     "rain"
+author:     "keith"
 header-img: "img/post-bg-2019-01-11-jekyll.jpg"
 catalog: true
 tags:

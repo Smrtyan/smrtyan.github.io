@@ -3,7 +3,7 @@ layout:     post
 title:      "zsh更换主题"
 subtitle:   "zsh的箭头提示符很简洁美观，可是我想换个主题了"
 date:       2019-01-13 12:00:00
-author:     "rain"
+author:     "keith"
 header-img: "img/post-2019-01-13-bg-iterm2-theme.png"
 catalog: true
 tags:

@@ -27,7 +27,7 @@
         <span class="resume-title"><strong>Shenzhen Culiu Tech</strong> | Software Engineer</span>
         <span class="resume-date">2020.06 - 2022.03</span>
     </div>
-    <div class="resume-desc">Developed and maintained multiple internal enterprise systems, working with Python Flask, Vue.js and MySQL stacks. Implemented and optimized both frontend and backend features.</div>
+    <div class="resume-desc">Developed and maintained multiple internal enterprise systems, working with Java, Vue.js and MySQL stacks. Implemented and optimized both frontend and backend features.</div>
 </div>
 
 
@@ -76,9 +76,8 @@
         <h4>Programming Languages</h4>
         <div class="skill-tags">
             <span class="skill-tag">Java</span>
-            <span class="skill-tag">Python</span>
+            <span class="skill-tag">PHP</span>
             <span class="skill-tag">JavaScript</span>
-            <span class="skill-tag">C/C++</span>
             <span class="skill-tag">SQL</span>
         </div>
     </div>
@@ -87,9 +86,8 @@
         <h4>Frameworks & Tools</h4>
         <div class="skill-tags">
             <span class="skill-tag">Spring Boot</span>
-            <span class="skill-tag">Flask</span>
+            <span class="skill-tag">Next.js</span>
             <span class="skill-tag">Vue.js</span>
-            <span class="skill-tag">Android</span>
             <span class="skill-tag">MySQL</span>
             <span class="skill-tag">Linux</span>
             <span class="skill-tag">Git</span>

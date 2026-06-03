@@ -2,7 +2,7 @@
 layout:     post
 title:      "zsh 中文乱码"
 date:       2019-01-12 12:00:00
-author:     "rain"
+author:     "keith"
 header-img: "img/post-bg-2019-01-12-chinese.jpg"
 catalog: true
 tags:

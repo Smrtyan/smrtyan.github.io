@@ -27,7 +27,7 @@
         <span class="resume-title"><strong>深圳醋溜科技</strong> | 开发工程师</span>
         <span class="resume-date">2020.06 - 2022.03</span>
     </div>
-    <div class="resume-desc">参与多个企业内部系统的开发与维护，主要技术栈包括 Python Flask、Vue.js 和 MySQL，负责前后端功能实现与优化。</div>
+    <div class="resume-desc">参与多个企业内部系统的开发与维护，主要技术栈包括 Java、Vue.js 和 MySQL，负责前后端功能实现与优化。</div>
 </div>
 
 
@@ -48,9 +48,8 @@
         <h4>编程语言</h4>
         <div class="skill-tags">
             <span class="skill-tag">Java</span>
-            <span class="skill-tag">Python</span>
+            <span class="skill-tag">PHP</span>
             <span class="skill-tag">JavaScript</span>
-            <span class="skill-tag">C/C++</span>
             <span class="skill-tag">SQL</span>
         </div>
     </div>
@@ -59,9 +58,8 @@
         <h4>框架与工具</h4>
         <div class="skill-tags">
             <span class="skill-tag">Spring Boot</span>
-            <span class="skill-tag">Flask</span>
+            <span class="skill-tag">Next.js</span>
             <span class="skill-tag">Vue.js</span>
-            <span class="skill-tag">Android</span>
             <span class="skill-tag">MySQL</span>
             <span class="skill-tag">Linux</span>
             <span class="skill-tag">Git</span>

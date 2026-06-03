@@ -3,7 +3,7 @@ layout:     post
 title:      "配置网络和防火墙小记"
 subtitle:   "搞机搞机搞机...."
 date:       2018-12-18 12:00:00
-author:     "rain"
+author:     "keith"
 header-img: "img/post-bg-2018-12-18-network.png"
 catalog: true
 tags:

@@ -3,7 +3,7 @@ layout:     post
 title:      "hp 2570p 黑苹果小记"
 subtitle:   "大半夜舍友睡了，我在爬帖，舍友醒了我还在爬帖，舍友惊了，以为我一个晚上都在装系统...."
 date:       2018-05-10 12:00:00
-author:     "rain"
+author:     "keith"
 header-img: "img/post-bg-2018-05-10-macos.jpeg"
 catalog: true
 tags:

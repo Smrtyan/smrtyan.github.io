@@ -3,7 +3,7 @@ layout:     post
 title:      "站点维护常用命令小结"
 subtitle:   "记录一下方便以后修改"
 date:       2019-04-18 12:00:00
-author:     "rain"
+author:     "keith"
 header-img: "img/post-bg-build-server.png"
 catalog: true
 tags:

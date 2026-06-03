@@ -3,7 +3,7 @@ layout:     post
 title:      "Design Pattern学习小记"
 subtitle:   "原来Intellj可以这么用"
 date:       2019-01-24 12:00:00
-author:     "rain"
+author:     "keith"
 #header-img: "img/"
 catalog: true
 tags:

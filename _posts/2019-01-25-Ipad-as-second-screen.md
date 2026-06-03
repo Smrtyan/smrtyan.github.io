@@ -3,7 +3,7 @@ layout:     post
 title:      "ipad作扩展屏幕"
 subtitle:   "怎么能少了多屏呢"
 date:       2019-01-25 12:00:00
-author:     "rain"
+author:     "keith"
 header-img: "img/post-bg-2019-01-25-extend-screen-head.jpeg"
 catalog: true
 tags:
